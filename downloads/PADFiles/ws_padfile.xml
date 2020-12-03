@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-E7004C7F7A76</Company_UIN>
+    <Company_Description>Dynamic Applications is a small business consultancy focused on product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. Your very own.
+
+We're driven by thousands of independent voters. Altogether, we develop Perfect Desire, an evolving platform of free and simple business plan calculators for everyone.
+
+At Dynamic Applications, we are Sharing Economy. Follow us to gain.
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Company_Description>
+    <Product_UIN>APP-012B11AD2C7</Product_UIN>
+    <Search_String>Water Supply</Search_String>
+    <Press_Release_Search_String>Dynamic Applications releases Water Supply</Press_Release_Search_String>
+    <NewsFeed_Search_String>Dynamic Applications releases Water Supply</NewsFeed_Search_String>
+    <Search_Engine_Search_String>Dynamic Applications releases Water Supply</Search_Engine_Search_String>
+    <Web_Directories_Search_String>Dynamic Applications releases Water Supply</Web_Directories_Search_String>
+    <Search_String_Unique>Water</Search_String_Unique>
+    <Comments_For_Reviewer>Any constructive, non-violent criticizm is welcome. Your reviews are our inspiration. 
+
+Universal Promo Code:
+DLROW-III-MODEL
+
+Thank you!</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Dynamic Applications</Company_Name>
+    <Address_1>Helpuper Str. 314</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Leopolds Height</City_Town>
+    <State_Province>NRW</State_Province>
+    <Zip_Postal_Code>33818</Zip_Postal_Code>
+    <Country>Germany</Country>
+    <Company_WebSite_URL>https://dynamic-applications.org</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Martin</Contact_First_Name>
+      <Contact_Last_Name>Bernhardt</Contact_Last_Name>
+      <Contact_Email>freeware@dynamic-applications.org</Contact_Email>
+      <Author_First_Name>Martin</Author_First_Name>
+      <Author_Last_Name>Bernhardt</Author_Last_Name>
+      <Author_Email>freeware@dynamic-applications.org</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>freeware@dynamic-applications.org</Sales_Email>
+      <Support_Email>freeware@dynamic-applications.org</Support_Email>
+      <General_Email>freeware@dynamic-applications.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>https://linkedin.com/company/dynamicons</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/dynamicons</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/dynamicons</FacebookCompanyPage>
+    <CompanyStorePage>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>freeware@dynamic-applications.org</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Martin</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Bernhardt</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <OnlineShops>
+    <OnlineShops_FORM>Y</OnlineShops_FORM>
+    <OnlineShops_VERSION>1.0</OnlineShops_VERSION>
+    <OnlineShops_URL>http://Submit-Everywhere.com/extensions/OnlineShops.htm</OnlineShops_URL>
+    <OnlineShops_DESCRIPTION>This PAD extension allows you to check these sites distribution agreements and decide wether you wish to sell your product through them</OnlineShops_DESCRIPTION>
+    <OnlineShops_PalmGear>off</OnlineShops_PalmGear>
+    <OnlineShops_PocketLand>off</OnlineShops_PocketLand>
+    <OnlineShops_PDAssi>off</OnlineShops_PDAssi>
+    <OnlineShops_PDATopSoft>off</OnlineShops_PDATopSoft>
+    <OnlineShops_PocketGear>off</OnlineShops_PocketGear>
+    <OnlineShops_Softahead>on</OnlineShops_Softahead>
+    <OnlineShops_Softonic>on</OnlineShops_Softonic>
+    <OnlineShops_SoftSearch>on</OnlineShops_SoftSearch>
+    <OnlineShops_Winowin>off</OnlineShops_Winowin>
+    <OnlineShops_Handango>off</OnlineShops_Handango>
+  </OnlineShops>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Dynamic Applications | Business Model Calculations.</Site_Site_Title>
+    <Site_Site_URL>http://www.dynamic-applications.org</Site_Site_URL>
+    <Site_Description_100>Dynamic Applications, Business, Plan, Calculator, Simulation, Startup, Consultancy, dynamicons</Site_Description_100>
+    <Site_Description_250>Dynamic Applications is a small business consultancy focused on customers, product cost, efficiency, sales, and net profit. We're driven by thousands of independent voters. We support Startups in developing 21st century Business Models. Your own.</Site_Description_250>
+    <Site_Description_450>Dynamic Applications is a small business consultancy focused on customers, product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. We're driven by thousands of independent voters. Altogether, we develop a platform of free and simple business plan calculators for everyone.
+
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Site_Description_450>
+    <Site_Keywords>Small Business, Sharing Economy, Calculator, Plan, Home, Hobby, Economy, Work, Business, Simulation, dynamicons, Dynamic Applications.</Site_Keywords>
+    <Site_Contact_Email>freeware@dynamic-applications.org</Site_Contact_Email>
+    <Site_Contact_First_Name>Martin</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Bernhardt</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>ws_padfile.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_ControlPanel_Hosted>19801078CBBFDAE4D78AAA04E4421721</DP_ControlPanel_Hosted>
+      <DP_Distributive_Mask>watersupplysetup.exe</DP_Distributive_Mask>
+      <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/WaterSupplySetup.exe</DP_Distributive_Primary_URL>
+    </General>
+  </Dynamic_PAD>
+  <Program_Info>
+    <FacebookProductPage>https://facebook.com/dynamicons</FacebookProductPage>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>4145128</File_Size_Bytes>
+      <File_Size_K>4047</File_Size_K>
+      <File_Size_MB>3.95</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Name>Water Supply</Program_Name>
+    <Program_Version>5.87</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>12</Program_Release_Day>
+    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>v5.87 - new SDUI MessageBox with decent, fine dark design. 
+v5.84 - decent mouse-over preview of dynamic qs, our 2021 public voting.
+v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.
+v5.64 - dna License Bug Bountry Programme with specific 1000 Euro starter bonus.</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 / 8 / 10, Notebook, PC, Windows 10 Tablet</Program_System_Requirements>
+    <Program_Category_Class>Home &amp; Hobby::Food &amp; Drink</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Hydrology,Water Supply,Water,Food &amp; Drink,Food and Drink,Infrastructure,Small Business,Science,Education,Home &amp; Hobby,Home and Hobby,Home,Hobby,House,Personal Finance</Program_Categories>
+    <Limitations>Water Supply is a free product. It allows you to enter your own values and see simulation results. Free universal PROMO CODES on Twitter as part of the Dynamic Idea and Roadmap Voting (@dynamic_idea, @dynamic_qs) allow you to change any formula.</Limitations>
+    <Awards>https://www.softpedia.com/get/Others/Finances-Business/Predicted-Desire.shtml#status</Awards>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Press_Release>
+    <Press_Release>Dynamic Applications releases Water Supply, including a Household's Water Reservoir Battery energy calculation.
+
+The Water Supply Simulation is a Small Business calculator by Dynamic Applications that allows you to calculate cost, effort, time and volume of your own, self-built House Well. Includes a sophisticated, enhanced Water Reservoir Battery Simulation. Is it possible? - we say yes. 
+
+But does it really make sense if we consider gravitation to be one of the weakest powers that there is, considering that you need a whole planet to connect a 100 kg person to its surface?
+
+With Newton's gravitation formula for height energy, E = m * g * h and knowing that one Newton Meter is only a Watt second (1 Nm = 1 J = 1 Ws = 1/3600 000 kWh), it's getting astonishing close to feed your fridge overnight. 
+
+How do Pirates fit into that picture? - the Water Supply Simulation page by Dynamic Applications answers that. 
+
+Furthermore, includes the Bakery Tutorial, an introductory simulation that allows you to bake and sell your own bread. Food and Drink - Dynamic Applications has world's basic answers.</Press_Release>
+    <Press_Release_Plain>Dynamic Applications releases Water Supply, including a Household's Water Reservoir Battery energy calculation.
+
+The Water Supply Simulation is a Small Business calculator by Dynamic Applications that allows you to calculate cost, effort, time and volume of your own, self-built House Well. Includes a sophisticated, enhanced Water Reservoir Battery Simulation. Is it possible? - we say yes. 
+
+But does it really make sense if we consider gravitation to be one of the weakest powers that there is, considering that you need a whole planet to connect a 100 kg person to its surface?
+
+With Newton's gravitation formula for height energy, E = m * g * h and knowing that one Newton Meter is only a Watt second (1 Nm = 1 J = 1 Ws = 1/3600 000 kWh), it's getting astonishing close to feed your fridge overnight. 
+
+Furthermore, includes the Bakery Tutorial, an introductory simulation that allows you to bake and sell your own bread. Food and Drink - Dynamic Applications has world's basic answers.</Press_Release_Plain>
+    <Headline>Dynamic Applications releases Water Supply, answering world's most basic questions.</Headline>
+    <Summary>Dynamic Applications releases Water Supply, answering world's most basic questions.</Summary>
+    <Keywords>Water, Supply, Well, Builder, House, Home, Hobby, Education, Food, Drink, Science, Reservoir, Battery, dynamicons, Dynamic Applications</Keywords>
+    <Related_URL>http://www.dynamic-applications.org/downloads/water-supply-chain/</Related_URL>
+  </Press_Release>
+  <Web_Info>
+    <Application_URLs>
+      <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
+      <Application_Info_URL>https://dynamic-applications.org/downloads/water-supply-chain/</Application_Info_URL>
+      <Application_Order_URL>https://www.microsoft.com/store/apps/9NQH8JRFS4R1</Application_Order_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_WaterSupply_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_WaterSupply_logo_32x32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/ws_padfile.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://dynamic-apps.org/downloads/WaterSupplySetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://dynamic-apps.eu/downloads/WaterSupplySetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <ASBMPlannerID1stRound>2252</ASBMPlannerID1stRound>
+  <Issues>8</Issues>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <ASBMPlannerID2ndRound>2259</ASBMPlannerID2ndRound>
+  <Permissions>
+    <Distribution_Permissions>Dynamic Applications can be distributed according to the dna license, a Creative Commons cc-by-sa style license.</Distribution_Permissions>
+    <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Water, Supply, Infrastructure, Well, Builder, Pipe, Home, House, Hobby, Science, Renewable, Energy, dynamicons, Dynamic Applications</Keywords>
+      <Char_Desc_45>Water Supply - House Well Builder Simulation</Char_Desc_45>
+      <Char_Desc_80>Water Supply - cost, effort, volume and energy - build a house well</Char_Desc_80>
+      <Char_Desc_250>Water Supply is a calculator by Dynamic Applications that allows you to calculate cost, effort, time and volume of your own, self-built House Well. Includes a simple House Water Reservoir Battery Simulation. Is it possible? - we say yes.</Char_Desc_250>
+      <Char_Desc_450>The Water Supply Simulation is a calculator by Dynamic Applications that allows you to calculate cost, effort, time and volume of your own, self-built House Well. Includes a simple House Water Reservoir Battery Simulation. Furthermore, includes the Bakery Tutorial, an introductory simulation that allows you to bake and sell your own bread. Food and Drink - Dynamic Applications has world's basic answers.</Char_Desc_450>
+      <Char_Desc_2000>The Water Supply Simulation is a calculator by Dynamic Applications that allows you to calculate cost, effort, time and volume of your own, self-built House Well. Includes a simple House Water Reservoir Battery Simulation. 
+
+But does it really make sense if we consider gravitation to be one of the weakest powers that there is, considering that you need a whole planet to connect a 100 kg person to its surface? - with Newton's gravitation formula for height energy, E = m * g * h and knowing that one Newton Meter is only a Watt second, it's getting close. So we calculate a completely sustainable house with a Water Supply Battery, as an example of what's possible with Dynamic Applications.
+
+All calculations are fully transparent via the integrated ToolTip system, documenting all formula and values in live calculation. Dynamic Applications are gathering no data at all, perfectly protecting all your plans. And finally, Dynamic Applications are participative. Two voting competitions on Twitter, world's fastest network, are defining our path to follow. The work on Dynamic Applications is prioritized from the top public votes on the best dynamic idea and platform features of all times.
+
+Finally, Water Supply includes the Bakery Tutorial, an introductory simulation that allows you to bake and sell your own bread. For the top 12 Input and Target Values, the integrated Formula System editors allow you to rename, translate, and redefine any formula directly within the application. Apart from that, Dynamic Applications are fully functional in the free version, so you can play around and calculate to build your own Water Supply, as well as step into creating a small business of any kind. 
+
+Food and Drink - Dynamic Applications has world's basic answers.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-E7004C7F7A76</Company_UIN>
+    <Company_Description>Dynamic Applications is a small business consultancy focused on product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. Your very own.
+
+We're driven by thousands of independent voters. Altogether, we develop Perfect Desire, an evolving platform of free and simple business plan calculators for everyone.
+
+At Dynamic Applications, we are Sharing Economy. Follow us to gain.
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Company_Description>
+    <Product_UIN>APP-011B0FA8214</Product_UIN>
+    <Search_String>Pirate Desire</Search_String>
+    <Press_Release_Search_String>Pirate Desire</Press_Release_Search_String>
+    <NewsFeed_Search_String>Pirate Desire</NewsFeed_Search_String>
+    <Search_Engine_Search_String>Pirate Desire</Search_Engine_Search_String>
+    <Web_Directories_Search_String>Pirate Desire</Web_Directories_Search_String>
+    <Search_String_Unique>Pirate</Search_String_Unique>
+    <Comments_For_Reviewer>Pirate Desire is functional equivalent to our Professional Business Model Development platform.
+it's free, and it's supposed to bring additional imagery, music, flags and icons over time.
+
+it's a proof-of-concept.
+
+Your reviews are our inspiration. Thank you for supporting Dynamic Applications.</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Dynamic Applications</Company_Name>
+    <Address_1>Helpuper Str. 314</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Leopolds Height</City_Town>
+    <State_Province>NRW</State_Province>
+    <Zip_Postal_Code>33818</Zip_Postal_Code>
+    <Country>Germany</Country>
+    <Company_WebSite_URL>https://dynamic-applications.org</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Martin</Contact_First_Name>
+      <Contact_Last_Name>Bernhardt</Contact_Last_Name>
+      <Contact_Email>freeware@dynamic-applications.org</Contact_Email>
+      <Author_First_Name>Martin</Author_First_Name>
+      <Author_Last_Name>Bernhardt</Author_Last_Name>
+      <Author_Email>freeware@dynamic-applications.org</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>freeware@dynamic-applications.org</Sales_Email>
+      <Support_Email>freeware@dynamic-applications.org</Support_Email>
+      <General_Email>freeware@dynamic-applications.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>https://linkedin.com/company/dynamicons</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/dynamicons</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/dynamicons</FacebookCompanyPage>
+    <CompanyStorePage>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>freeware@dynamic-applications.org</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Martin</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Bernhardt</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <OnlineShops>
+    <OnlineShops_FORM>Y</OnlineShops_FORM>
+    <OnlineShops_VERSION>1.0</OnlineShops_VERSION>
+    <OnlineShops_URL>http://Submit-Everywhere.com/extensions/OnlineShops.htm</OnlineShops_URL>
+    <OnlineShops_DESCRIPTION>This PAD extension allows you to check these sites distribution agreements and decide wether you wish to sell your product through them</OnlineShops_DESCRIPTION>
+    <OnlineShops_PalmGear>on</OnlineShops_PalmGear>
+    <OnlineShops_PocketLand>off</OnlineShops_PocketLand>
+    <OnlineShops_PDAssi>off</OnlineShops_PDAssi>
+    <OnlineShops_PDATopSoft>off</OnlineShops_PDATopSoft>
+    <OnlineShops_PocketGear>off</OnlineShops_PocketGear>
+    <OnlineShops_Softahead>on</OnlineShops_Softahead>
+    <OnlineShops_Softonic>on</OnlineShops_Softonic>
+    <OnlineShops_SoftSearch>on</OnlineShops_SoftSearch>
+    <OnlineShops_Winowin>on</OnlineShops_Winowin>
+    <OnlineShops_Handango>on</OnlineShops_Handango>
+  </OnlineShops>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Dynamic Applications</Site_Site_Title>
+    <Site_Site_URL>http://www.dynamic-applications.org/</Site_Site_URL>
+    <Site_Description_100>Transparency. Privacy protection. and Participation. our values. Revolution.</Site_Description_100>
+    <Site_Description_250>Transparency. Privacy protection. and Participation. our values. Revolution.
+
+Pirate Desire can do calculations in x / y / t, and it can integrate over time.
+
+Select your Target. Check Options. Raise your Platform. be successful. Vote or Wait.</Site_Description_250>
+    <Site_Description_450>Transparency. Privacy Protection. and Participation. our values.
+
+Pirate Desire can do calculations in x / y / t, and it can integrate over time.
+
+All simulation models that you develop will be fully Transparent. It's protecting user's Privacy, by gathering no data. The third thing to know is that it's Participative. We are voting on the next big thing to publish.
+
+Pirate Desire is copyright (c) 2017 Piratenpartei NRW (P). download now.</Site_Description_450>
+    <Site_Keywords>Pirate Party, 21st century, Transparency, Privacy, Protection, Participation, Democracy, Internet, Nature, PV, Energy, Business, Plan, we the people, Dynamic Applications, dynamicons, Sharing Economy</Site_Keywords>
+    <Site_Contact_Email>freeware@dynamic-applications.org</Site_Contact_Email>
+    <Site_Contact_First_Name>Martin</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Bernhardt</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>ppd_padfile.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_ControlPanel_Hosted>E4DCF88DC1B6DD23DE97C1D92A4C6E43</DP_ControlPanel_Hosted>
+      <DP_Distributive_Mask>piratedesiresetup.exe</DP_Distributive_Mask>
+      <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/PirateDesireSetup.exe</DP_Distributive_Primary_URL>
+    </General>
+  </Dynamic_PAD>
+  <Program_Info>
+    <FacebookProductPage>https://www.facebook.com/dynamicons/</FacebookProductPage>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>4546032</File_Size_Bytes>
+      <File_Size_K>4439</File_Size_K>
+      <File_Size_MB>4.33</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Name>Pirate Desire</Program_Name>
+    <Program_Version>5.76</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>30</Program_Release_Day>
+    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>EUR</Program_Cost_Other_Code>
+    <Program_Cost_Other>0</Program_Cost_Other>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.
+v5.64 - dna License Bug Bountry Programme with specific 1000 Euro Startup bonus on your first order.</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 / 8 / 10 and a large 1280x768 (+) display.</Program_System_Requirements>
+    <Program_Category_Class>Education::Teaching &amp; Training Tools</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>100</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info>Pirate Desire will try to destroy itself after 100 usages. a secret treasure map will guide you on.</Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>worldwide collaboration,Sharing Economy,Pirate Party,Politics,participation,democracy,Ethics,eLearning,Distance Learning,Gouvernment,Mathematics,Teaching,Security and Encyption,Pirates,Education,Tutorial,globalization,transparency,Reference,Internet,Technology,Startup,Windows</Program_Categories>
+    <Limitations>all features activated. full platform and capabilities of Perfect Desire, our professional business model development environment. may contain additional imagery, vision, quotes, and flag.</Limitations>
+    <Awards>http://www.softpedia.com/publisher/Dynamic-Applications-100954.html</Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
+      <Application_Info_URL>https://dynamic-applications.org/2017/11/12/pirate-desire/</Application_Info_URL>
+      <Application_Order_URL>https://dynamic-applications.org/2017/11/12/pirate-desire/</Application_Order_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_PirateDesire_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_PirateDesire_logo_32x32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/ppd_padfile.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://dynamic-apps.org/downloads/PirateDesireSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://dynamic-apps.eu/downloads/PirateDesireSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Press_Release>
+    <Press_Release>Transparency. Privacy Protection. and Participation. our values. 
+
+Pirate Desire can do calculations in x / y / t, and it can integrate over time. 
+All simulations that you develop will be fully Transparent through interactive ToolTips. 
+It's protecting user's Privacy, by gathering no data at all. It's your business, it's your data. We respect that. 
+The third thing to know is that Pirate Desire is Participative. We are voting on a better platform to publish. 
+
+Pirate Desire can do calculations in x / y / t, and it can integrate over time. Select a Target. Build your Platform. check your options. contribute. grow. and be successful. vote. or wait on.
+
+Transparency. Privacy protection. and Participation. our values. Revolution. 
+We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Press_Release>
+    <Press_Release_Plain>Transparency. Privacy Protection. and Participation. our values. 
+
+Pirate Desire can do calculations in x / y / t, and it can integrate over time. 
+All simulations that you develop will be fully Transparent through interactive ToolTips. 
+It's protecting user's Privacy, by gathering no data at all. It's your business, it's your data. We respect that. 
+The third thing to know is that Pirate Desire is Participative. We are voting on a better platform to publish. 
+
+Pirate Desire can do calculations in x / y / t, and it can integrate over time. Select a Target. Build your Platform. check your options. contribute. grow. and be successful. vote. or wait on.
+
+Transparency. Privacy protection. and Participation. our values. Revolution. 
+We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Press_Release_Plain>
+    <Headline>Dynamic Applications announces Pirate Desire, and experiment in online democracy with a bug bounty.</Headline>
+    <Summary>Transparency. Privacy Protection. and Participation. our values.
+Pirate Desire solves calculations in x/y/t. it's a proof-of-concept for an online democracy.</Summary>
+    <Keywords>Transparency, Privacy, Protection, Participation, Online Democracy, International Network, Internet of Things, one world, Pirate Desire, Dynamic Applications</Keywords>
+    <Related_URL>https://www.dynamic-applications.org/downloads/product-and-feature-matrix/</Related_URL>
+  </Press_Release>
+  <ASBMPlannerID1stRound>2256</ASBMPlannerID1stRound>
+  <Issues>7</Issues>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <ASBMPlannerID2ndRound>2262</ASBMPlannerID2ndRound>
+  <Permissions>
+    <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share. See EULA for details.</Distribution_Permissions>
+    <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Transparency, Privacy protection, Participation, Pirate Party, Democracy, Distribution, Sharing Economy, Internet, Pirate Desire, growth, contribution, we the people, Internet of Things, Dynamic Applications, System Dynamics, dynamicons, Pirates</Keywords>
+      <Char_Desc_45>Transparency. Privacy. and Participation.</Char_Desc_45>
+      <Char_Desc_80>Transparency. Privacy protection. and Participation. our values. Revolution.</Char_Desc_80>
+      <Char_Desc_250>Transparency. Privacy protection. and Participation. our values. Revolution. Pirate Desire can do calculations in x / y / t, and it can integrate over time. Select a Target. Build your Platform. Check Options. grow. be successful. Vote or Wait on.</Char_Desc_250>
+      <Char_Desc_450>Transparency. Privacy Protection. and Participation. our values. Pirate Desire can do calculations in x / y / t, and it can integrate over time. All Business Plan Calculations will be fully Transparent. It's protecting user's Privacy, by gathering no data. The third thing to know is that it's Participative. We are voting on new ideas to publish. We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Char_Desc_450>
+      <Char_Desc_2000>Transparency. Privacy protection. and Participation. our values.
+
+Revolution. 
+
+Pirate Desire can project any kind of calculation in x / y / t, and it can integrate over time. Select your Target. Check your Options. Build your own Ship. contribute. and grow. be successful. Vote. 
+
+Pirate Desire contains a wide range of simulation models for the 21st century founder, from a Bakery Tutorial, to Simulation Models for specific purposes like, Water Supply, Apple Tree, a Tool Builder calculation model, Small Busines Developments, the 21st century Truck Driver, an Internet of Things developer simulation, and even a realistic Photovoltaic System cost/profit calculation over 25..40 years.
+
+Transparency. Privacy Protection. and Participation. our values. 
+
+1) All simulations that you develop will be fully transparent, through automated interactive ToolTips. 
+2) It's protecting your Privacy, by gathering no data at all. It's your business, it's your data. We respect that.
+
+3) The third thing to know is that it's Participative. Customer Driven Development: vote in the Dynamic Idea and Roadmap Competition on Twitter, and define the next big thing we publish. Pay with a Tweet.
+
+Pirate Desire is the fully functional Business Model Development Environment of Dynamic Applications, in a special version that will destroy itself on day 100. But our secret Treasure Code will guide you on your way, right from its final Startup day. For those who can not wait that long, Pirate Desire will upgrade itself and activate all features and capabilities of Perfect Desire, our infinite Target, from having acquired 1000 dna coins in an honest and righteous way. 
+
+Pirate Desire. Celebrating 2018, the third year of Dynamic Applications, this one is gonna be free of charge.
+One coin for Startup, one coin per Simulation Model, 2 dna coins for calling our Website from Program's menu.
+
+We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

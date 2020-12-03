@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-E7004C7F7A76</Company_UIN>
+    <Company_Description>Dynamic Applications is a small business consultancy focused on product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. Your very own.
+
+We're driven by thousands of independent voters. Altogether, we develop Perfect Desire, an evolving platform of free and simple business plan calculators for everyone.
+
+At Dynamic Applications, we are Sharing Economy. Follow us to gain.
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Company_Description>
+    <Product_UIN>APP-011714B37F2</Product_UIN>
+    <Search_String>21st century worldwide growth of Forest</Search_String>
+    <Press_Release_Search_String>21st century worldwide growth of Forest</Press_Release_Search_String>
+    <NewsFeed_Search_String>21st century worldwide growth of Forest</NewsFeed_Search_String>
+    <Search_Engine_Search_String>21st century worldwide growth of Forest</Search_Engine_Search_String>
+    <Web_Directories_Search_String>21st century worldwide growth of Forest</Web_Directories_Search_String>
+    <Search_String_Unique>Forest</Search_String_Unique>
+    <Comments_For_Reviewer>For people working on Publications, Reviewers and Testers. 
+Thank you for all your work, we appreciate it. 
+Your comments define our next idea. 
+
+DLROW-III-MODEL
+2016 - 2017 - 2018
+UNLIMITED UPGRADES
+
+This code will upgrade you to Perfect Desire, our professional application.</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Dynamic Applications</Company_Name>
+    <Address_1>Helpuper Str. 314</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Leopolds Height</City_Town>
+    <State_Province>NRW</State_Province>
+    <Zip_Postal_Code>33818</Zip_Postal_Code>
+    <Country>Germany</Country>
+    <Company_WebSite_URL>https://dynamic-applications.org</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Martin</Contact_First_Name>
+      <Contact_Last_Name>Bernhardt</Contact_Last_Name>
+      <Contact_Email>freeware@dynamic-applications.org</Contact_Email>
+      <Author_First_Name>Martin</Author_First_Name>
+      <Author_Last_Name>Bernhardt</Author_Last_Name>
+      <Author_Email>freeware@dynamic-applications.org</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>freeware@dynamic-applications.org</Sales_Email>
+      <Support_Email>freeware@dynamic-applications.org</Support_Email>
+      <General_Email>freeware@dynamic-applications.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>https://linkedin.com/company/dynamicons</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/dynamicons</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/dynamicons</FacebookCompanyPage>
+    <CompanyStorePage>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>freeware@dynamic-applications.org</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Martin</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Bernhardt</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Dynamic Applications | Business Model Calculations.</Site_Site_Title>
+    <Site_Site_URL>http://www.dynamic-applications.org</Site_Site_URL>
+    <Site_Description_100>We develop Dynamic Applications. They empower people. We are Sharing Economy. Follow us to gain.</Site_Description_100>
+    <Site_Description_250>Dynamic Applications is a small business consultancy focused on product cost and benefit. We support Startups in quickly checking Business Case options. We develop a platform for free business model calculators. We call them Dynamic Applications.</Site_Description_250>
+    <Site_Description_450>Dynamic Applications is a small business consultancy focused on product cost-benefit optimization. We support Startups and Small Business to quickly check their Business plan calculation over 48 months. We develop Perfect Desire, an evolving platform for free micro-business model calculators, based on a differential equation solver. They are driven by thousands of independent voters, and we call them Dynamic Applications.</Site_Description_450>
+    <Site_Keywords>SocialMedia, 21st century, App, Developer, Internet of Things, PV, Forest, Energy, Truck, Startup, Product, growth, contribution, business, plan, Dynamic Applications, dynamicons, Sharing Economy</Site_Keywords>
+    <Site_Contact_Email>freeware@dynamic-applications.org</Site_Contact_Email>
+    <Site_Contact_First_Name>Martin</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Bernhardt</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>wwf_padfile.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_ControlPanel_Hosted>1098003F4D21D0E3F855AAE007F04101</DP_ControlPanel_Hosted>
+      <DP_Distributive_Mask>worldwidegrowthofforestsetup.exe</DP_Distributive_Mask>
+      <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/WorldwideGrowthOfForestSetup.exe</DP_Distributive_Primary_URL>
+    </General>
+  </Dynamic_PAD>
+  <Program_Info>
+    <FacebookProductPage>https://www.facebook.com/dynamicons</FacebookProductPage>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>4150784</File_Size_Bytes>
+      <File_Size_K>4053</File_Size_K>
+      <File_Size_MB>3.96</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Name>21st century worldwide growth of Forest</Program_Name>
+    <Program_Version>5.87</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>12</Program_Release_Day>
+    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>v5.87 - new SDUI MessageBox with decent, fine dark design. 
+v5.84 - decent mouse-over preview of dynamic qs, our 2021 public voting.
+v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.
+v5.64 - dna License Bug Bountry Programme with specific 1000 Euro starter bonus.</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 / 8 / 10,  1280x768 (+) display</Program_System_Requirements>
+    <Program_Category_Class>Education::Geography</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Forest,Environmental,Earth Science,Earth Sciences,Nature,Earth,Geography,Weather,Education,Science,Statistics,Simulation</Program_Categories>
+    <Limitations>no limitations. There is a public key game included that allows everyone to activate Perfect Desire, our premium client, for free. Keys are hidden in the Twitter competition that is part of the application.</Limitations>
+    <Awards>http://www.softpedia.com/get/Others/Finances-Business/Predicted-Desire.shtml#status</Awards>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Video_Link_1_URL>https://dynamic-applications.com/intro/</Video_Link_1_URL>
+      <Video_Link_2_URL>https://vimeo.com/248985018</Video_Link_2_URL>
+      <Application_Info_URL>https://dynamic-applications.org/downloads/21st-century-worldwide-growth-of-forest/</Application_Info_URL>
+      <Application_Order_URL>https://dynamic-applications.org/downloads/21st-century-worldwide-growth-of-forest/</Application_Order_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_21stWwGrowthofForest_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/WWF_logo_32x32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/wwf_padfile.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://dynamic-apps.org/downloads/WorldwideGrowthOfForestSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://dynamic-apps.eu/downloads/WorldwideGrowthOfForestSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Press_Release>
+    <Press_Release>Dynamic Applications releases 21st century worldwide growth of Forest, a post-climate CO2 effects simulation.
+
+How it works
+
+21st century worldwide growth of Forest is a simulation model in System Dynamics, a prediction method that became popular through the Club of Rome's study "The limits to Growth". We list worldwide ressources in Coal, Gas and Crude Oil, as well as estimations for yearly worldwide delivery of fossile ressources. From there, we calculate CO2 production, as well as evaporation, clouds, rainfall and the 21st century worldwide growth of Forest, per continent.
+
+We allow the user to verify any formula we have ever used. All you need is a simple pocket calculator and the basic Rule of Three. Promo Codes are hidden right within the Tweets of our Dynamic Idea and Roadmap competition on Twitter, world's fastest network, for free. It's part of the game. As soon as you find them, you can activate all features of Perfect Desire, our professional application, for free. It will allow you to extend the simulation model by adding new Input Values and modify Target Formulas in an Excel-Style editor, right from within the application.
+
+SocialMedia Followers leading the path of Development
+
+Accompanying the Release, which went through a beta phase with hundreds freelance testers, two SocialMedia Competitions have been started. At @dynamic_idea, a public voting competition allows everyone to suggest, favour, and retweet new simulation ideas.
+
+Public Roadmap 
+
+In parallel to @dynamic_idea, there is a public Roadmap Feature competition at @dynamic_qs, so users can as well prioritize our roadmap. We call it Customer Driven Development.
+
+Since our roadmap is community defined, we try to give every person in the world a fair chance to participate, supposed they can get access to a free Twitter account. 
+
+Every month, we work on the top voted @dynamic_qs platform feature, up to the full month.
+If time remains, we publish top voted simulation models from @dynamic_idea.
+
+This way, we are Sharing Economy. It's an experiment in Swarm Intelligence. We define Online Democracy in idea and roadmap voting, and develop free Apps to participate from results. Is it possible? - we say yes. 
+
+Pay with a tweet. 
+
+
+About Dynamic Applications
+
+Dynamic Applications was founded on January 01, 2016 by Martin Bernhardt. A widely unknown, small inventor.
+
+Dynamic Applications has no flyers, sales consultants, traditional marketing, or budget. Our strategy is called Growth Hacking. We spend as much time as possible on Development of our free Platform. Following an Agile Development approach, we're working our way all up from the very bottom. We start from crap and make it better, every day. Dynamic Applications is a community approach. We pay with a Tweet, and define the next big thing to publish. 
+
+We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Press_Release>
+    <Press_Release_Plain>Dynamic Applications releases 21st century worldwide growth of Forest, a post-climate CO2 effects simulation.
+
+How it works
+
+21st century worldwide growth of Forest is a simulation model in System Dynamics, a prediction method that became popular through the Club of Rome's study "The limits to Growth". We list worldwide ressources in Coal, Gas and Crude Oil, as well as estimations for yearly worldwide delivery of fossile ressources. From there, we calculate CO2 production, as well as evaporation, clouds, rainfall and the 21st century worldwide growth of Forest, per continent.
+
+We allow the user to verify any formula we have ever used. All you need is a simple pocket calculator and the basic Rule of Three. Promo Codes are hidden right within the Tweets of our Dynamic Idea and Roadmap competition on Twitter, world's fastest network, for free. It's part of the game. As soon as you find them, you can activate all features of Perfect Desire, our professional application, for free. It will allow you to extend the simulation model by adding new Input Values and modify Target Formulas in an Excel-Style editor, right from within the application.
+
+SocialMedia Followers leading the path of Development
+
+Accompanying the Release, which went through a beta phase with hundreds freelance testers, two SocialMedia Competitions have been started. At @dynamic_idea, a public voting competition allows everyone to suggest, favour, and retweet new simulation ideas.
+
+Public Roadmap 
+
+In parallel to @dynamic_idea, there is a public Roadmap Feature competition at @dynamic_qs, so users can as well prioritize our roadmap. We call it Customer Driven Development.
+
+Since our roadmap is community defined, we try to give every person in the world a fair chance to participate, supposed they can get access to a free Twitter account. 
+
+Every month, we work on the top voted @dynamic_qs platform feature, up to the full month.
+If time remains, we publish top voted simulation models from @dynamic_idea.
+
+This way, we are Sharing Economy. It's an experiment in Swarm Intelligence. We define Online Democracy in idea and roadmap voting, and develop free Apps to participate from results. Is it possible? - we say yes. 
+
+Pay with a tweet. 
+
+
+About Dynamic Applications
+
+Dynamic Applications was founded on January 01, 2016 by Martin Bernhardt. A widely unknown, small inventor.
+
+Dynamic Applications has no flyers, sales consultants, traditional marketing, or budget. Our strategy is called Growth Hacking. We spend as much time as possible on Development of our free Platform. Following an Agile Development approach, we're working our way all up from the very bottom. We start from crap and make it better, every day. Dynamic Applications is a community approach. We pay with a Tweet, and define the next big thing to publish. 
+
+We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Press_Release_Plain>
+    <Headline>Dynamic Applications releases 21st century worldwide growth of Forest, a climate simulation.</Headline>
+    <Summary>21st century worldwide growth of Forest predicts worldwide Resources in Coal, Gas, Crude Oil. Targets are CO2, Clouds, Rainfall, and Forest per Continent.</Summary>
+    <Keywords>21st century, worldwide, growth, Forest, Dynamic Applications, 21st century worldwide growth of Forest, Nature, CO2, Climate, Clouds, Weather, Earth, World, Planet.</Keywords>
+    <Related_URL>https://dynamic-applications.com/downloads/21st-century-worldwide-growth-of-forest/</Related_URL>
+  </Press_Release>
+  <ASBMPlannerID1stRound>2238</ASBMPlannerID1stRound>
+  <Issues>7</Issues>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <ASBMPlannerID2ndRound>2245</ASBMPlannerID2ndRound>
+  <Permissions>
+    <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share. See EULA for details.</Distribution_Permissions>
+    <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>21st century, worldwide, growth, Forest, Nature, Clouds, CO2, Climate, Sunshine, Weather, Greenland, Science, Simulation, System Dynamics, dynamicons, Dynamic Applications</Keywords>
+      <Char_Desc_45>21st century worldwide growth of Forest</Char_Desc_45>
+      <Char_Desc_80>21st century worldwide growth of Forest - a natural development simulation</Char_Desc_80>
+      <Char_Desc_250>Have you ever heard about the Greenhouse effect? - This simulation is looking post the climate discussion. How much fossile energy ressources are left? - What will happen with more CO2? - will we have more Rain? - Forest? - get your own picture.</Char_Desc_250>
+      <Char_Desc_450>Ever heard about the Greenhouse effect? - this simulation is looking post the climate discussion. How much fossile resources are there? how much Coal, Gas and Oil are delivered? - if we continue to fire it up, how much CO2 is that? - how much Water is there in Clouds, and how fast will Forest grow if we got more? - This simulation will allow you to check it out, so think self. Grow Earth's Resources over time. All Formulas explained by Tooltips.</Char_Desc_450>
+      <Char_Desc_2000>Ever heard about the Greenhouse effect? - this simulation is looking post the climate discussion. How much fossile ressources are there? how much Coal, Gas and Oil do we deliver? - if we continue to fire it up, how much CO2 is that? - how much Water is there in the Clouds, and how fast will Forest grow if we got more? - This simulation will allow you to check it all out, so think self, we say. 
+
+Grow Earth's Ressources over time. All Formulas explained through automated ToolTips, with live values of the simulation. Dynamic Applications allow you to define any formula system, change Input Values over time, inspect Target Values and modify all Formula. So you can really check out the world, adjusting everything you see according to your needs. 
+
+You don't have to believe in Polititicans, Scientists, Wikipedia, or Google. What you make of this basic climate simulation, is completely up to you. Automated result diagrams will show you the precise, mediated statistical estimation and consequences of all your presets and assumptions. The only requirement is that you believe in the existance of Math. In case you find a formula where you say you can do it better, each of them no more complex than the simple Rule of Three. So you can fix the software on the spot. 
+
+Dynamic Applications is a participative organization, following Customer driven development. Two competitions on Twitter, world's fastest network, will allow you to vote with Retweets and Favs for the best new simulation idea, as well as the top requirement for our public roadmap. The work is prioritized by public vote.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-E7004C7F7A76</Company_UIN>
+    <Company_Description>Dynamic Applications is a small business consultancy focused on product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. Your very own.
+
+We're driven by thousands of independent voters. Altogether, we develop Perfect Desire, an evolving platform of free and simple business plan calculators for everyone.
+
+At Dynamic Applications, we are Sharing Economy. Follow us to gain.
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Company_Description>
+    <Product_UIN>APP-012A1743538</Product_UIN>
+    <Search_String>Federal Press Agency</Search_String>
+    <Press_Release_Search_String>Federal Press Agency</Press_Release_Search_String>
+    <NewsFeed_Search_String>Federal Press Agency</NewsFeed_Search_String>
+    <Search_Engine_Search_String>Federal Press Agency</Search_Engine_Search_String>
+    <Web_Directories_Search_String>Federal Press Agency</Web_Directories_Search_String>
+    <Search_String_Unique>Federal</Search_String_Unique>
+    <Comments_For_Reviewer>The Federal Press Agency requires to enter a Website (e.g. www.dynamic-applications.com). It will then read the Sitemap.xml file of that Website to get the Table of Contents. On the 2nd Settings Tab, you'll have to configure at least one Twitter account. Try Tweet Interval of &lt; 42 min for options.</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Dynamic Applications</Company_Name>
+    <Address_1>Helpuper Str. 314</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Leopolds Height</City_Town>
+    <State_Province>NRW</State_Province>
+    <Zip_Postal_Code>33818</Zip_Postal_Code>
+    <Country>Germany</Country>
+    <Company_WebSite_URL>https://dynamic-applications.org</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Martin</Contact_First_Name>
+      <Contact_Last_Name>Bernhardt</Contact_Last_Name>
+      <Contact_Email>freeware@dynamic-applications.org</Contact_Email>
+      <Author_First_Name>Martin</Author_First_Name>
+      <Author_Last_Name>Bernhardt</Author_Last_Name>
+      <Author_Email>freeware@dynamic-applications.org</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>freeware@dynamic-applications.org</Sales_Email>
+      <Support_Email>freeware@dynamic-applications.org</Support_Email>
+      <General_Email>freeware@dynamic-applications.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>https://linkedin.com/company/dynamicons</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/dynamicons</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/dynamicons</FacebookCompanyPage>
+    <CompanyStorePage>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>freeware@dynamic-applications.org</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Martin</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Bernhardt</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Dynamic Applications | Business Model Calculations.</Site_Site_Title>
+    <Site_Site_URL>http://www.dynamic-applications.org</Site_Site_URL>
+    <Site_Description_100>We are Dynamic Applications. We work to empower people. We are Sharing Economy. Follow us to gain.</Site_Description_100>
+    <Site_Description_250>Dynamic Applications is a small business consultancy focused on customers, product cost and benefit. We support Startups in quickly developing a Business Model. We develop a free platform for business plan calculators. Customer driven Development.</Site_Description_250>
+    <Site_Description_450>Dynamic Applications is a small business consultancy focused on product cost-benefit optimization. We support Startups and Small Business to quickly develop their Business plan calculation over 48 months. We develop Perfect Desire, an evolving platform for free micro-business model calculators, based on a differential equation solver. They are driven by thousands of independent voters, and we call them Dynamic Applications.</Site_Description_450>
+    <Site_Keywords>SocialMedia, App, Developer, Internet of Things, PV, Forest, Energy, Truck, Startup, Product, News, Free Press, growth, contribution, business, plan, dynamicons, Sharing Economy, Dynamic Applications</Site_Keywords>
+    <Site_Contact_Email>freeware@dynamic-applications.org</Site_Contact_Email>
+    <Site_Contact_First_Name>Martin</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Bernhardt</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>fpa_padfile.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_ControlPanel_Hosted>412ED494C6F99890C2C4CD5BCA441F02</DP_ControlPanel_Hosted>
+      <DP_Distributive_Mask>federalpressagencysetup.exe</DP_Distributive_Mask>
+      <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/FederalPressAgencySetup.exe</DP_Distributive_Primary_URL>
+    </General>
+  </Dynamic_PAD>
+  <Program_Info>
+    <FacebookProductPage>https://www.facebook.com/dynamicons</FacebookProductPage>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>4470256</File_Size_Bytes>
+      <File_Size_K>4365</File_Size_K>
+      <File_Size_MB>4.26</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Name>Federal Press Agency</Program_Name>
+    <Program_Version>5.76</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>12</Program_Release_Day>
+    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>v5.76 - small bugfixes and Sourcecode repository moved to GitHub.
+v5.48 - small update to dna license and AGB, Terms and Conditions from 2020.
+v5.48 - long-term reduction of Freeware Setup.exe Download size to around 4 MByte.</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 / 8 / 10 with .NET Framework 4.6.</Program_System_Requirements>
+    <Program_Category_Class>Business::Other</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Twitter,SocialMedia,Social Media,Newstickers,Promotion,Marketing Tools,Marketing &amp; Advertising,Publications,Publication,Newspapers,News,Project Management,Information,Management &amp; Distribution,Management and Distribution,Business,Home &amp; Hobby,Home and Hobby</Program_Categories>
+    <Limitations>Free version supports 1 Twitter account and 2 Websites. After 100 days, min Tweet Interval will be Days of Use.</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Press_Release>
+    <Press_Release>Public Information.
+
+The Federal Press Agency is our answer to the Upload Filters of 20th century European Union Politicians. Federal Truth Controllers. Whhssssch… and gone they are. history. It's all repeated history.
+
+We the people. Publishers of 21st century. Altogether, we vote.
+We're tolerant.
+
+at The Federal Press Agency, we‘re participative. And we‘re kind. We let them all talk on, in their beautiful, ever so utterly expensive glass palasts. They're all over the world. Caring for their own pockets, and those they owe for all that fame. They take 10000 Euro per month and they talk about poverty, in shiny TV.
+
+How do they know. How can they understand.
+
+we're free, we're honest, even and fair. our Treasures we share. 
+day one, we're the poor.
+
+altogether, we bear them all, for too once upon a long time ago.
+day two. we the people make a wish come true.
+
+How can they understand how cruel it is to die, from bitter poverty, in knowing from a broken shield's iPhone all about how beautiful these people live in their shiny paradise, their daily parades.
+
+The Sun keeps shining. The Sun keeps shining.
+Your child cries. Your child dies.
+
+understanding.
+
+and so, while some people who call themselves gouvernment are showing there faces on some bribed, old TV stations of past century, we the people have started to move on. We just let them talk on, with their beautiful, white teeth' bla bla. We barely listen. When we meet a friend, we mumble. It's all about getting the work done.
+
+at the same time, in some forgotten state of past century, it was the gathering of the early few. It was the time to build solutions for the idiots, the crank, the locked away dumbos, the beggars on the street, and the utterly forgotten poor from the outsider's world.
+
+They are rich on the bank account, you know. They're shiny. They're posh. Posh Shine Takers.
+ooh, how powerful they are, talking garbage about how many people can they can't bear to feed.
+
+So first they ignore us. Then they laugh on us. And then, then they spit on us. We let them spit on.
+And finally, finally. They're gonna fight us. They're going to fight us, that's one thing for sure.
+With all those weapons they have built to protect themselves against the forgotten poor.
+We're just the symptome, you know, we're not the cause. These people spit on themselves.
+And so we learn that kindness is not all about a friendly neighbour'ship.
+These people will start fighting each other.
+
+we are rich in our heart.
+we are few.
+we are Survivors.
+we are Pirates of 21st century.
+
+we're global. and we're determined to balance the world, as a whole.
+Psst. Ey, you? - what's your little problem, out there?
+ooh, how the goof is fighting the better in you.
+
+Solutions.
+
+it's up to everyone.
+
+[...]
+
+The Federal Press Agency is s SocialBot to grow your project on Twitter, with automated Website publication and participative SocialMedia coverage. We the people. Altogether, we vote.</Press_Release>
+    <Press_Release_Plain>Public Information.
+
+The Federal Press Agency is our answer to the Upload Filters of 20th century European Union Politicians. Federal Truth Controllers. Whhssssch… and gone they are. history. It's all repeated history.
+
+We the people. Publishers of 21st century. Altogether, we vote.
+We're tolerant.
+
+at The Federal Press Agency, we‘re participative. And we‘re kind. We let them all talk on, in their beautiful, ever so utterly expensive glass palasts. They're all over the world. Caring for their own pockets, and those they owe for all that fame. They take 10000 Euro per month and they talk about poverty, in shiny TV.
+
+How do they know. How can they understand.
+
+we're free, we're honest, even and fair. our Treasures we share. 
+day one, we're the poor.
+
+altogether, we bear them all, for too once upon a long time ago.
+day two. we the people make a wish come true.
+
+How can they understand how cruel it is to die, from bitter poverty, in knowing from a broken shield's iPhone all about how beautiful these people live in their shiny paradise, their daily parades.
+
+The Sun keeps shining. The Sun keeps shining.
+Your child cries. Your child dies.
+
+understanding.
+
+and so, while some people who call themselves gouvernment are showing there faces on some bribed, old TV stations of past century, we the people have started to move on. We just let them talk on, with their beautiful, white teeth' bla bla. We barely listen. When we meet a friend, we mumble. It's all about getting the work done.
+
+at the same time, in some forgotten state of past century, it was the gathering of the early few. It was the time to build solutions for the idiots, the crank, the locked away dumbos, the beggars on the street, and the utterly forgotten poor from the outsider's world.
+
+They are rich on the bank account, you know. They're shiny. They're posh. Posh Shine Takers.
+ooh, how powerful they are, talking garbage about how many people can they can't bear to feed.
+
+So first they ignore us. Then they laugh on us. And then, then they spit on us. We let them spit on.
+And finally, finally. They're gonna fight us. They're going to fight us, that's one thing for sure.
+With all those weapons they have built to protect themselves against the forgotten poor.
+We're just the symptome, you know, we're not the cause. These people spit on themselves.
+And so we learn that kindness is not all about a friendly neighbour'ship.
+These people will start fighting each other.
+
+we are rich in our heart.
+we are few.
+we are Survivors.
+we are Pirates of 21st century.
+
+we're global. and we're determined to balance the world, as a whole.
+Psst. Ey, you? - what's your little problem, out there?
+ooh, how the goof is fighting the better in you.
+
+Solutions.
+
+it's up to everyone.
+
+[...]
+
+The Federal Press Agency is s SocialBot to grow your project on Twitter, with automated Website publication and participative SocialMedia coverage. We the people. Altogether, we vote.</Press_Release_Plain>
+    <Headline>Dynamic Applications releases Federal Press Agency to grow and empower the people's work on Twitter.</Headline>
+    <Summary>Dynamic Applications releases Federal Press Agency to grow and empower the people's work on Twitter.</Summary>
+    <Keywords>Federal Press Agency, Press Agency, News, Press, Newsticker, Free Press, SocialBot, Twitter, grow, Website, dynamicons, Dynamic Applications</Keywords>
+    <Related_URL>http://www.dynamic-applications.org/downloads/federal-press-agency/</Related_URL>
+  </Press_Release>
+  <ASBMPlannerID1stRound>2242</ASBMPlannerID1stRound>
+  <Issues>7</Issues>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <ASBMPlannerID2ndRound>2249</ASBMPlannerID2ndRound>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dynamic-applications.org/downloads/federal-press-agency/</Application_Info_URL>
+      <Application_Order_URL>https://www.microsoft.com/store/apps/9NW1BNQ8L0QN</Application_Order_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_FederalPressAgency_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_FederalPressAgency_logo_32x32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/fpa_padfile.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://dynamic-apps.org/downloads/FederalPressAgencySetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://dynamic-apps.eu/downloads/FederalPressAgencySetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Dynamic Applications are available under the dna license, a Creative Commons cc-by-sa alike license.</Distribution_Permissions>
+    <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Press, Press Agency, Agency, SocialMedia, Social Media, Twitter, Newsticker, News, Public, Information, dynamicons, Dynamic Applications</Keywords>
+      <Char_Desc_45>Federal Press Agency, a SocialBot for Twitter</Char_Desc_45>
+      <Char_Desc_80>Federal Press Agency is a SocialBot that publishes your Website on Twitter.</Char_Desc_80>
+      <Char_Desc_250>The Federal Press Agency will publish your Website's pages in turns with your best own Tweets, those of your friends, Team members, Newstickers, or Hashtags. Selected by public vote - Retweets and Favs count. A SocialBot to grow your own Project.</Char_Desc_250>
+      <Char_Desc_450>Federal Press Agency will publish your Website's pages in turns with your best Tweets, those of your friends, Team members, Newstickers, or Hashtags. Selected by public vote - Retweets and Favs count. It's a SocialBot to grow your own Project. We the people. Altogether, we vote. We're free, honest, even, and fair. Altogether, we publish. The Federal Press Agency is our answer to the Upload Filters of 20th century European Union Politicians.</Char_Desc_450>
+      <Char_Desc_2000>Federal Press Agency is a SocialBot to grow your Startup, Project or Small Business. It will read your website sitemap, and publish an article per hour on Twitter, world's fastest network. Configure it to publish Tweets of you, your Friends, Team members and Newstickers, statistically based on Retweets and Favs. 
+
+The Federal Press Agency is our answer to the Upload Filters of 20th century European Union Politicians. 
+We the people. Publishers of 21st century. Altogether, we vote.
+
+We're tolerant. at The Federal Press Agency, we're participative. And we're kind. We let them all talk on, in their beautiful, ever so utterly expensive glass palasts. They're all over the world.
+
+Caring for their own pockets, and those they owe for all that fame. They take 10000 Euro per month and they talk about poverty, in shiny TV.
+
+How do they know. How can they understand.
+
+we're free, we're honest, even and fair. our Treasures we share. day one, we are the poor.
+altogether, we bear them all, for too once upon a long time ago.
+
+day two. we the people make a wish come true.
+
+How can they understand how cruel it is to die, from bitter poverty, in knowing from a broken shield's iPhone all about how beautiful these people live in their shiny paradise, their daily parades.
+
+and so, while some people who call themselves government are showing there faces on some bribed, old TV stations of past century, we the people have started to move on. We just let them talk on. We barely listen. When we meet a friend, we mumble. 
+
+It's all about getting the work done.
+
+The Federal Press Agency is free of charge. It's your way to grow. Are you ready, today?
+SocialMedia driven innovations for the 21st century. And you could be one.
+
+At Dynamic Applications, we work to empower people. We are Sharing Economy. Follow us to gain.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
