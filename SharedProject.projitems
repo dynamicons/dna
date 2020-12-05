@@ -6,7 +6,7 @@
     <SharedGUID>4e4135a6-6938-4c29-bb3e-b66c374317ff</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>SharedProject</Import_RootNamespace>
+    <Import_RootNamespace>dna</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)custom\index.html" />
@@ -452,6 +452,7 @@
     <None Include="$(MSBuildThisFileDirectory)PhotovoltaicSystemSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PirateDesireSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PredictedDesireSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)SharedProject.sln" />
     <None Include="$(MSBuildThisFileDirectory)SmallBusinessDevSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)StartupInformerSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)StartupProductManagerSetup.exe" />
@@ -460,9 +461,5 @@
     <None Include="$(MSBuildThisFileDirectory)WaterSupplySetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)WindTurbineSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)WorldwideGrowthOfForestSetup.exe" />
-    <None Include="$(MSBuildThisFileDirectory)SharedProject.sln" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)downloads\" />
   </ItemGroup>
 </Project>
