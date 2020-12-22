@@ -134,18 +134,18 @@ UNLIMITED UPGRADES</Comments_For_Reviewer>
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>4015088</File_Size_Bytes>
-      <File_Size_K>3920</File_Size_K>
-      <File_Size_MB>3.83</File_Size_MB>
+      <File_Size_Bytes>4380144</File_Size_Bytes>
+      <File_Size_K>4277</File_Size_K>
+      <File_Size_MB>4.18</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>App Developer</Program_Name>
-    <Program_Version>5.87</Program_Version>
+    <Program_Version>5.92</Program_Version>
     <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>12</Program_Release_Day>
+    <Program_Release_Day>30</Program_Release_Day>
     <Program_Release_Year>2020</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
@@ -153,10 +153,9 @@ UNLIMITED UPGRADES</Comments_For_Reviewer>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.87 - new SDUI MessageBox with decent, fine dark design. 
-v5.84 - decent mouse-over preview of dynamic qs, our 2021 public voting.
-v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.
-v5.64 - dna License Bug Bountry Programme with specific 1000 Euro starter bonus.</Program_Change_Info>
+    <Program_Change_Info>v5.92 - supports .NET 5.0 Desktop Environment and Setup.
+v5.87 - new SDUI MessageBox with decent, fine dark design. 
+v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10. 1280x768+ Display recommended. No Spyware, no Ads, no Server, no Data gathering.</Program_System_Requirements>
     <Program_Category_Class>Development::Management &amp; Distribution</Program_Category_Class>
     <Expire_Info>
@@ -233,7 +232,7 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
     <Keywords>SocialMedia, App, Developer, Programmer, Freeware, Shareware, Expansion, Downloads, Success, Cost, Revenue, Net Profit, Dynamic Applications, Sharing Economy.</Keywords>
     <Related_URL>https://dynamic-applications.org/downloads/app-developer/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2239</ASBMPlannerID1stRound>
+  <ASBMPlannerID1stRound>2381</ASBMPlannerID1stRound>
   <Issues>7</Issues>
   <Web_Info>
     <Application_URLs>
@@ -246,15 +245,15 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://dynamic-apps.org/downloads/AppDeveloperSetup.exe</Primary_Download_URL>
-      <Secondary_Download_URL>https://dynamic-apps.eu/downloads/AppDeveloperSetup.exe</Secondary_Download_URL>
-      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Secondary_Download_URL>https://github.com/dynamicons/dna/releases/download/dna/AppDeveloperSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://dynamic-apps.eu/downloads/AppDeveloperSetup.exe</Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID2ndRound>2246</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2388</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share. See EULA for details.</Distribution_Permissions>
     <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>

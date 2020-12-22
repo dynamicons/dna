@@ -270,12 +270,12 @@ The Federal Press Agency is s SocialBot to grow your project on Twitter, with au
     <Keywords>Federal Press Agency, Press Agency, News, Press, Newsticker, Free Press, SocialBot, Twitter, grow, Website, dynamicons, Dynamic Applications</Keywords>
     <Related_URL>http://www.dynamic-applications.org/downloads/federal-press-agency/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2242</ASBMPlannerID1stRound>
-  <Issues>7</Issues>
+  <ASBMPlannerID1stRound>2385</ASBMPlannerID1stRound>
+  <Issues>6</Issues>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID2ndRound>2249</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2389</ASBMPlannerID2ndRound>
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://dynamic-applications.org/downloads/federal-press-agency/</Application_Info_URL>
@@ -286,8 +286,8 @@ The Federal Press Agency is s SocialBot to grow your project on Twitter, with au
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://dynamic-apps.org/downloads/FederalPressAgencySetup.exe</Primary_Download_URL>
-      <Secondary_Download_URL>https://dynamic-apps.eu/downloads/FederalPressAgencySetup.exe</Secondary_Download_URL>
-      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Secondary_Download_URL>https://github.com/dynamicons/dna/releases/download/dna/FederalPressAgencySetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://dynamic-apps.eu/downloads/FederalPressAgencySetup.exe</Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
