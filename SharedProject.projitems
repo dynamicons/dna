@@ -414,10 +414,14 @@
     <Content Include="$(MSBuildThisFileDirectory)index.html" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)21stTruckDriverSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)21stWWForestSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)AllinOnePVSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)AppDeveloperSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)AppleTreeSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)BusinessProcessManagerSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)dna\21stTruckDriverSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)dna\21stWWForestSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\AllinOnePVSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\AppDeveloperSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\AppleTreeSetup.exe" />
