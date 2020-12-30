@@ -431,6 +431,7 @@
     <None Include="$(MSBuildThisFileDirectory)dna\FederalPressAgencySetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\HealthcareSimulationsSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\IoTDeveloperSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)dna\KeyAccountManagerSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\PD3146v788\PerfectDesireSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\PD3146v788\SmallBusinessDevSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)dna\PerfectDesireSetup.exe" />
@@ -450,6 +451,7 @@
     <None Include="$(MSBuildThisFileDirectory)FederalPressAgencySetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)HealthcareSimulationsSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)IoTDeveloperSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)KeyAccountManagerSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PD3146v788\PerfectDesireSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PD3146v788\SmallBusinessDevSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PerfectDesireSetup.exe" />
