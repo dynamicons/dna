@@ -119,26 +119,27 @@ We vote in online democracy, we deliver for free. we work for you, and we call t
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>4337136</File_Size_Bytes>
-      <File_Size_K>4235</File_Size_K>
-      <File_Size_MB>4.14</File_Size_MB>
+      <File_Size_Bytes>4399088</File_Size_Bytes>
+      <File_Size_K>4295</File_Size_K>
+      <File_Size_MB>4.19</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>Startup Informer</Program_Name>
-    <Program_Version>5.76</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>12</Program_Release_Day>
-    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Version>6.04</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>04</Program_Release_Day>
+    <Program_Release_Year>2021</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.76 - small bugfixes and Sourcecode repository moved to GitHub.
+    <Program_Change_Info>v6.04 - updated 2021 AGB, Terms and Conditions and dna license.
+v5.76 - small bugfixes and Sourcecode repository moved to GitHub.
 v5.48 - small update to dna license and AGB, Terms and Conditions from 2020.
 v5.48 - long-term reduction of Freeware Setup.exe Download size to around 4 MByte.</Program_Change_Info>
     <Program_System_Requirements>Windows 7/8/10 with .NET Framework 4.6.</Program_System_Requirements>
@@ -152,7 +153,7 @@ v5.48 - long-term reduction of Freeware Setup.exe Download size to around 4 MByt
       <Expire_Day></Expire_Day>
       <Expire_Year></Expire_Year>
     </Expire_Info>
-    <Program_Categories>Information Tickers,Twitter,SocialBots,SocialMedia,Networking,Promotion,Internet Marketing,Marketing &amp; Advertising,Marketing and Advertising,Communication Software,Communications,CRM,Customer Relationship Management,Web Site publishing tools,Website Management,Project Management,Deployment,Distribution,Small Business,Startup,Home Automation,Home Business,Task Managers,Home and Hobby,Home &amp; Hobby,Business,Windows</Program_Categories>
+    <Program_Categories>Information Tickers,Twitter,SocialBots,SocialMedia,Internet Marketing,Marketing &amp; Advertising,Marketing and Advertising,Communication Software,Customer Relationship Management,Web Site publishing tools,Website Management,Deployment,Networking,Promotion,Startup,Home Business,Project Management,Small Business,Home and Hobby,Home &amp; Hobby,Business,Windows</Program_Categories>
     <Limitations>Free version supports 1 Twitter account and 2 Websites. After 100 days, min Tweet Interval will be Days of Use.</Limitations>
     <Program_Cost_Other_Code></Program_Cost_Other_Code>
     <Program_Cost_Other></Program_Cost_Other>
@@ -260,8 +261,8 @@ Startup Informer is an automated SocialMedia Manager.</Summary>
     <Keywords>Startup Informer, Startup, Small Business, Business, Website, SocialBot, SocialCyborg, Press Release, Info, Information, Worldwide, Visibility, Distribution, Freeware, Free Press</Keywords>
     <Related_URL>http://www.dynamic-applications.org/downloads/startup-informer/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2415</ASBMPlannerID1stRound>
-  <Issues>7</Issues>
+  <ASBMPlannerID1stRound>2629</ASBMPlannerID1stRound>
+  <Issues>6</Issues>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
@@ -270,21 +271,21 @@ Startup Informer is an automated SocialMedia Manager.</Summary>
     <General>
       <DP_Pad_Mask>si_padfile.xml</DP_Pad_Mask>
       <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
-      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
       <DP_ControlPanel_Hosted>E8447E6F129A2CF83FB35CEA2B2C2D8F</DP_ControlPanel_Hosted>
       <DP_Distributive_Mask>startupinformersetup.exe</DP_Distributive_Mask>
       <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/StartupInformerSetup.exe</DP_Distributive_Primary_URL>
     </General>
   </Dynamic_PAD>
-  <ASBMPlannerID2ndRound>2424</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2639</ASBMPlannerID2ndRound>
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://dynamic-applications.org/downloads/startup-informer</Application_Info_URL>
       <Application_Order_URL>https://www.microsoft.com/store/apps/9PBB916LSLNR</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_StartupInformer_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_StartupInformer_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/StartupInformer_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/StartupInformer_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/si_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>

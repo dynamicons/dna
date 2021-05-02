@@ -121,9 +121,9 @@ UNLIMITED UPGRADES</Comments_For_Reviewer>
     <General>
       <DP_Pad_Mask>appd_padfile.xml</DP_Pad_Mask>
       <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
-      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
       <DP_ControlPanel_Hosted>3567059B2774349D1F9E8B995C87D790</DP_ControlPanel_Hosted>
       <DP_Distributive_Mask>appdevelopersetup.exe</DP_Distributive_Mask>
       <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/AppDeveloperSetup.exe</DP_Distributive_Primary_URL>
@@ -134,28 +134,25 @@ UNLIMITED UPGRADES</Comments_For_Reviewer>
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>4380144</File_Size_Bytes>
-      <File_Size_K>4277</File_Size_K>
-      <File_Size_MB>4.18</File_Size_MB>
+      <File_Size_Bytes>5619696</File_Size_Bytes>
+      <File_Size_K>5487</File_Size_K>
+      <File_Size_MB>5.36</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>App Developer</Program_Name>
-    <Program_Version>5.92</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>30</Program_Release_Day>
-    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Version>6.24</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>25</Program_Release_Day>
+    <Program_Release_Year>2021</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.92 - supports .NET 5.0 Desktop Environment and Setup.
-v5.87 - new SDUI MessageBox with decent, fine dark design. 
-v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10. 1280x768+ Display recommended. No Spyware, no Ads, no Server, no Data gathering.</Program_System_Requirements>
     <Program_Category_Class>Development::Management &amp; Distribution</Program_Category_Class>
     <Expire_Info>
@@ -170,6 +167,9 @@ v5.76 - smooth Time Ruler with integrated painting of Date and Time functionalit
     <Program_Categories>App developer,Developer Tools,Development,Management,Distribution,Deployment,SocialMedia,Tools &amp; Editors,Calculators &amp; Converters,Calculators,Tools,Windows,Business,Finance</Program_Categories>
     <Limitations>No limitations. There's a public key game that allows everyone to upgrade to Perfect Desire, our Professional Client, for free. The Promo Codes are available in the Twitter competition (@dynamic_idea  t  @dynamic_qs), so you gotta check a few Tweets.</Limitations>
     <Awards>http://www.softpedia.com/get/Others/Finances-Business/App-Developer.shtml#status</Awards>
+    <Program_Change_Info>v6.24 - AGB explanations on Art. 7 (eLearning vs. School rights).
+v6.24 - new icon for Key Account Manager, for our support team.
+v6.24 - fixed upgrade path and a few more bugs in the application.</Program_Change_Info>
     <Program_Cost_Other_Code></Program_Cost_Other_Code>
     <Program_Cost_Other></Program_Cost_Other>
     <Program_Specific_Category></Program_Specific_Category>
@@ -232,15 +232,15 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
     <Keywords>SocialMedia, App, Developer, Programmer, Freeware, Shareware, Expansion, Downloads, Success, Cost, Revenue, Net Profit, Dynamic Applications, Sharing Economy.</Keywords>
     <Related_URL>https://dynamic-applications.org/downloads/app-developer/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2381</ASBMPlannerID1stRound>
-  <Issues>7</Issues>
+  <ASBMPlannerID1stRound>2860</ASBMPlannerID1stRound>
+  <Issues>6</Issues>
   <Web_Info>
     <Application_URLs>
       <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
       <Application_Info_URL>https://dynamic-applications.org/downloads/app-developer</Application_Info_URL>
       <Application_Order_URL>https://dynamic-applications.org/downloads/app-developer</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_AppDeveloper_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_AppDeveloper_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/AppDeveloper_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/AppDeveloper_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/appd_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
@@ -253,7 +253,7 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID2ndRound>2388</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2867</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share. See EULA for details.</Distribution_Permissions>
     <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>

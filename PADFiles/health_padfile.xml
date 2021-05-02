@@ -122,9 +122,9 @@ Dynamic Applications are Freeware in the standard version.</Site_Description_450
   <Program_Info>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>5076992</File_Size_Bytes>
-      <File_Size_K>4958</File_Size_K>
-      <File_Size_MB>4.84</File_Size_MB>
+      <File_Size_Bytes>5416448</File_Size_Bytes>
+      <File_Size_K>5289</File_Size_K>
+      <File_Size_MB>5.17</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
@@ -133,19 +133,19 @@ Dynamic Applications are Freeware in the standard version.</Site_Description_450
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <FacebookProductPage>https://www.facebook.com/dynamicons</FacebookProductPage>
     <Program_Name>Healthcare Simulations</Program_Name>
-    <Program_Version>5.92</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>30</Program_Release_Day>
-    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Version>6.24</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>25</Program_Release_Day>
+    <Program_Release_Year>2021</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.92 - supports .NET 5.0 Desktop Environment and Setup.
-v5.87 - new SDUI MessageBox with decent, fine dark design. 
-v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.</Program_Change_Info>
+    <Program_Change_Info>v6.24 - AGB explanations on Art. 7 (eLearning vs. School rights).
+v6.24 - new icon for Key Account Manager, for our support team.
+v6.24 - fixed upgrade path and a few more bugs in the application.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10, .NET Framework 4.0</Program_System_Requirements>
     <Program_Category_Class>Home &amp; Hobby::Health &amp; Nutrition</Program_Category_Class>
     <Expire_Info>
@@ -173,8 +173,8 @@ v5.76 - smooth Time Ruler with integrated painting of Date and Time functionalit
       <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
       <Application_Info_URL>https://dynamic-applications.org/downloads/healthcare-simulations/</Application_Info_URL>
       <Application_Order_URL>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_HealthcareSimulations_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_HealthcareSimulations_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/HealthcareSimulations_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/HealthcareSimulations_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/health_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
@@ -251,8 +251,9 @@ Dynamic Applications are based on System Dynamics, a well-known approach from MI
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID1stRound>2405</ASBMPlannerID1stRound>
-  <Issues>7</Issues>
+  <ASBMPlannerID1stRound>2850</ASBMPlannerID1stRound>
+  <Issues>5</Issues>
+  <ASBMPlannerID2ndRound>2857</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions>This software is published under the dna license. Feel free to use for your own purpose and share under your own risk.</Distribution_Permissions>
     <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
@@ -284,17 +285,13 @@ All calculations are fully Transparent through interactive ToolTips, explaining 
 
 With every Input Parameter, there is a small Mode selector where you can estimate its development over time. Here you can raise up, lower, and square values, define interest rates, or saturation, trending, or Bell curves.
 
-Apply as many Input Value developments in time and see the Statistical Median Assumption of all your expectations, instantly and precisely. This way, Dynamic Applications allow you to quickly and interactively check all options of a given scenario. 
+Apply as many Input Value developments in time and see the Statistical Median Assumption of all your expectations, instantly and precisely. This way, Dynamic Applications allow you to quickly and interactively check all options of a given scenario. Since everything provided is free of charge, you can plan your new life secretly on a do-it-yourself basis, and never have to worry.
 
-Dynamic Applications are traditional Desktop Clients that are collecting or gathering no data at all. 
-Full Privacy Protection - no data gathering, no Adware, no Server, no Server behind you. 
-So that you can plan secretly and don't have to worry. Switch off your Wifi and check that out.
+Full Privacy Protection - no data gathering, no Adware, no Server, no Server behind you. Dynamic Applications are traditional Desktop Clients that are collecting or gathering no data at all. So that you can plan secretly and don't have to worry. Switch off your Wifi and check that out.
 
-Finally, Dynamic Applications are also Participative. Customer driven Development. Two user votings on Twitter allow you to check out further Simulation ideas, as well as Features for the Product's underlying Platform Roadmap. 
+Dynamic Applications are also Participative. Two user votings on Twitter allow you to check out further Simulation ideas, as well as Features for the Product's underlying Platform Roadmap. 
 
-All in all, Healthcare Simulations is a reliable product that features interesting Simulations that are fully functional to load, save, run, operate and modify even in the free version. A few advanced features are reserved though for Small Business Developments, their Professional Business Model Development Environment.
-
-Since everything provided is free of charge, you can plan your new life secretly on a do-it-yourself basis, and never have to worry.</Char_Desc_2000>
+All in all, Healthcare Simulations is a reliable product that features interesting calculation models that are fully functional to load, save, run, and various Virus and Healthcare Simulations over time.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
 </XML_DIZ_INFO>

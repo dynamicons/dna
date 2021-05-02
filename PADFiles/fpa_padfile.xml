@@ -99,9 +99,9 @@ We vote in online democracy, we deliver for free. We work for you, and we call t
     <General>
       <DP_Pad_Mask>fpa_padfile.xml</DP_Pad_Mask>
       <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
-      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
       <DP_ControlPanel_Hosted>412ED494C6F99890C2C4CD5BCA441F02</DP_ControlPanel_Hosted>
       <DP_Distributive_Mask>federalpressagencysetup.exe</DP_Distributive_Mask>
       <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/FederalPressAgencySetup.exe</DP_Distributive_Primary_URL>
@@ -112,18 +112,18 @@ We vote in online democracy, we deliver for free. We work for you, and we call t
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>4470256</File_Size_Bytes>
-      <File_Size_K>4365</File_Size_K>
-      <File_Size_MB>4.26</File_Size_MB>
+      <File_Size_Bytes>4537840</File_Size_Bytes>
+      <File_Size_K>4431</File_Size_K>
+      <File_Size_MB>4.33</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>Federal Press Agency</Program_Name>
-    <Program_Version>5.76</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>12</Program_Release_Day>
+    <Program_Version>6.04</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>04</Program_Release_Day>
     <Program_Release_Year>2020</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
@@ -131,7 +131,8 @@ We vote in online democracy, we deliver for free. We work for you, and we call t
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.76 - small bugfixes and Sourcecode repository moved to GitHub.
+    <Program_Change_Info>v6.04 - 2021 AGB, Terms and Conditions with dna license.
+v5.76 - small bugfixes and Sourcecode repository moved to GitHub.
 v5.48 - small update to dna license and AGB, Terms and Conditions from 2020.
 v5.48 - long-term reduction of Freeware Setup.exe Download size to around 4 MByte.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10 with .NET Framework 4.6.</Program_System_Requirements>
@@ -270,18 +271,18 @@ The Federal Press Agency is s SocialBot to grow your project on Twitter, with au
     <Keywords>Federal Press Agency, Press Agency, News, Press, Newsticker, Free Press, SocialBot, Twitter, grow, Website, dynamicons, Dynamic Applications</Keywords>
     <Related_URL>http://www.dynamic-applications.org/downloads/federal-press-agency/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2385</ASBMPlannerID1stRound>
-  <Issues>6</Issues>
+  <ASBMPlannerID1stRound>2642</ASBMPlannerID1stRound>
+  <Issues>5</Issues>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID2ndRound>2389</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2653</ASBMPlannerID2ndRound>
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://dynamic-applications.org/downloads/federal-press-agency/</Application_Info_URL>
       <Application_Order_URL>https://www.microsoft.com/store/apps/9NW1BNQ8L0QN</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_FederalPressAgency_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_FederalPressAgency_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/FederalPressAgency_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/FederalPressAgency_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/fpa_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>

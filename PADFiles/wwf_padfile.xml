@@ -107,9 +107,9 @@ This code will upgrade you to Perfect Desire, our professional application.</Com
     <General>
       <DP_Pad_Mask>wwf_padfile.xml</DP_Pad_Mask>
       <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
-      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
       <DP_ControlPanel_Hosted>1098003F4D21D0E3F855AAE007F04101</DP_ControlPanel_Hosted>
       <DP_Distributive_Mask>worldwidegrowthofforestsetup.exe</DP_Distributive_Mask>
       <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/WorldwideGrowthOfForestSetup.exe</DP_Distributive_Primary_URL>
@@ -120,28 +120,28 @@ This code will upgrade you to Perfect Desire, our professional application.</Com
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>4545024</File_Size_Bytes>
-      <File_Size_K>4438</File_Size_K>
-      <File_Size_MB>4.33</File_Size_MB>
+      <File_Size_Bytes>4861936</File_Size_Bytes>
+      <File_Size_K>4747</File_Size_K>
+      <File_Size_MB>4.64</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>21st century worldwide growth of Forest</Program_Name>
-    <Program_Version>5.92</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>30</Program_Release_Day>
-    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Version>6.24</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>25</Program_Release_Day>
+    <Program_Release_Year>2021</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>New Release</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.92 - supports .NET 5.0 Desktop Environment and Setup.
-v5.87 - new SDUI MessageBox with decent, fine dark design. 
-v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.</Program_Change_Info>
+    <Program_Change_Info>v6.24 - AGB explanations on Art. 7 (eLearning vs. School rights).
+v6.24 - new icon for Key Account Manager, for our support team.
+v6.24 - fixed upgrade path and a few more bugs in the application.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10,  1280x768 (+) display</Program_System_Requirements>
     <Program_Category_Class>Education::Geography</Program_Category_Class>
     <Expire_Info>
@@ -170,14 +170,14 @@ v5.76 - smooth Time Ruler with integrated painting of Date and Time functionalit
       <Video_Link_2_URL>https://vimeo.com/248985018</Video_Link_2_URL>
       <Application_Info_URL>https://dynamic-applications.org/downloads/21st-century-worldwide-growth-of-forest/</Application_Info_URL>
       <Application_Order_URL>https://dynamic-applications.org/downloads/21st-century-worldwide-growth-of-forest/</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_21stWwGrowthofForest_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/WWF_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/21stWWForest_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/21stWWForest_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/wwf_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://dynamic-apps.org/downloads/WorldwideGrowthOfForestSetup.exe</Primary_Download_URL>
-      <Secondary_Download_URL>https://github.com/dynamicons/dna/releases/download/dna/WorldwideGrowthOfForestSetup.exe</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://dynamic-apps.eu/downloads/WorldwideGrowthOfForestSetup.exe</Additional_Download_URL_1>
+      <Primary_Download_URL>https://dynamic-apps.org/downloads/21stWWForestSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/dynamicons/dna/releases/download/dna/21stWWForestSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://dynamic-apps.eu/downloads/21stWWForestSetup.exe</Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
@@ -253,12 +253,12 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
     <Keywords>21st century, worldwide, growth, Forest, Dynamic Applications, 21st century worldwide growth of Forest, Nature, CO2, Climate, Clouds, Weather, Earth, World, Planet.</Keywords>
     <Related_URL>https://dynamic-applications.com/downloads/21st-century-worldwide-growth-of-forest/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2382</ASBMPlannerID1stRound>
-  <Issues>7</Issues>
+  <ASBMPlannerID1stRound>2859</ASBMPlannerID1stRound>
+  <Issues>5</Issues>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID2ndRound>2392</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2866</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share. See EULA for details.</Distribution_Permissions>
     <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>

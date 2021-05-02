@@ -108,9 +108,9 @@ We vote in online democracy, we deliver for free. we work for you, and we call t
   <Dynamic_PAD>
     <Dynamic_Distributive>N</Dynamic_Distributive>
     <General>
-      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
       <DP_Pad_Mask>atree_padfile.xml</DP_Pad_Mask>
       <DP_Distributive_Mask>appletreesetup.exe</DP_Distributive_Mask>
       <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/AppleTreeSetup.exe</DP_Distributive_Primary_URL>
@@ -123,19 +123,19 @@ We vote in online democracy, we deliver for free. we work for you, and we call t
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>5127656</File_Size_Bytes>
-      <File_Size_K>5007</File_Size_K>
-      <File_Size_MB>4.89</File_Size_MB>
+      <File_Size_Bytes>5361128</File_Size_Bytes>
+      <File_Size_K>5235</File_Size_K>
+      <File_Size_MB>5.11</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>Apple Tree</Program_Name>
-    <Program_Version>5.92</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>30</Program_Release_Day>
-    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Version>6.24</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>25</Program_Release_Day>
+    <Program_Release_Year>2021</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Cost_Other_Code>EUR</Program_Cost_Other_Code>
     <Program_Cost_Other>0</Program_Cost_Other>
@@ -144,9 +144,9 @@ We vote in online democracy, we deliver for free. we work for you, and we call t
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.92 - supports .NET 5.0 Desktop Environment and Setup.
-v5.87 - new SDUI MessageBox with decent, fine dark design. 
-v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.</Program_Change_Info>
+    <Program_Change_Info>v6.24 - AGB explanations on Art. 7 (eLearning vs. School rights).
+v6.24 - new icon for Key Account Manager, for our support team.
+v6.24 - fixed upgrade path and a few more bugs in the application.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10, .NET Framework 4 (included)</Program_System_Requirements>
     <Program_Category_Class>Home &amp; Hobby::Food &amp; Drink</Program_Category_Class>
     <Expire_Info>
@@ -172,8 +172,8 @@ v5.76 - smooth Time Ruler with integrated painting of Date and Time functionalit
       <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
       <Application_Info_URL>https://dynamic-applications.org/downloads/apple-tree-garden/</Application_Info_URL>
       <Application_Order_URL>https://www.microsoft.com/store/apps/9NBLGGH40535</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_AppleTree_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_AppleTree_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/AppleTree_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/AppleTree_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/atree_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
@@ -209,11 +209,12 @@ Overall, Apple Tree is an interesting example of defining a very small business 
     <Keywords>Apple, Tree, Apple Tree, Garden, Small Business, Home Business, Dynamic Applications, System Dynamics, Sharing Economy.</Keywords>
     <Related_URL>https://www.dynamic-applications.org/downloads/apple-tree-garden/</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2411</ASBMPlannerID1stRound>
-  <Issues>6</Issues>
+  <ASBMPlannerID1stRound>2863</ASBMPlannerID1stRound>
+  <Issues>4</Issues>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
+  <ASBMPlannerID2ndRound>2869</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions>This software can be freely distributed under the dna license, a cc-by-sa Creative Commons license.</Distribution_Permissions>
     <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
@@ -244,10 +245,11 @@ Open a very small business. Apple Tree plans it perfectly.
 
 Includes the Bakery Tutorial, a Multi-Material Tool builder calculator, the Apple Tree simulation (easily customizable for similar vegetables), an Apple Tree Plantage calculator for starting up a professional business, a Water Supply - Well Builder intro simulation, The Dynamic Idea and Roadmap Competition, and a configurable Time Ruler.
 
-The software's Formulas are fully Transparent through automated, interactive ToolTips on demand.
-Dynamic Applications are gathering no data at all, so you can plan secretly and don't have to worry.  
+All Simulations allow for fine-tuning of any Input Parameter value over time, may it be rising up, falling down, creating interest rates, saturating, or trending. In estimating a value's progress over time, one by one, the software calculates the Statistical Median Expectation Value of all your assumptions. So you get a precise business plan with reliable numbers that work out. At Dynamic Applications, we say it's better to have a working plan, than to have got no plan, at all.
 
-Overall, Apple Tree is an interesting example of defining a very small business and living a basic life from home.</Char_Desc_2000>
+Dynamic Applications are gathering no data at all, so you can plan secretly and don't have to worry. It's your business. We respect that. Switch off your WiFi and check that out. The software's Formulas are fully Transparent and self-explanatory through automated, interactive ToolTips, including your live calculation to verify in numbers. 
+
+Overall, Apple Tree is an interesting example of defining a very small business and living a basic life from home. It comes to you in maximal simplicity, but it is very well capable of professional business calculations of any kind.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
 </XML_DIZ_INFO>

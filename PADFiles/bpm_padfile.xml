@@ -107,9 +107,9 @@ This code will upgrade this program to our Professional Business Model Developme
     <General>
       <DP_Pad_Mask>bpm_padfile.xml</DP_Pad_Mask>
       <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
-      <DP_Pad_Enabled>FALSE</DP_Pad_Enabled>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>FALSE</DP_AtFormFill_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
       <DP_ControlPanel_Hosted>1377CA1C9113DC875375F55B666148E7</DP_ControlPanel_Hosted>
       <DP_Distributive_Mask>businessprocessmanagersetup.exe</DP_Distributive_Mask>
       <DP_Distributive_Primary_URL>http://dynamic-apps.org/downloads/BusinessProcessManagerSetup.exe</DP_Distributive_Primary_URL>
@@ -120,28 +120,28 @@ This code will upgrade this program to our Professional Business Model Developme
     <Program_Target_Platform>Windows</Program_Target_Platform>
     <File_Info>
       <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
-      <File_Size_Bytes>4212224</File_Size_Bytes>
-      <File_Size_K>4113</File_Size_K>
-      <File_Size_MB>4.02</File_Size_MB>
+      <File_Size_Bytes>4558848</File_Size_Bytes>
+      <File_Size_K>4452</File_Size_K>
+      <File_Size_MB>4.35</File_Size_MB>
       <Filename_Versioned></Filename_Versioned>
       <Filename_Previous></Filename_Previous>
       <Filename_Generic></Filename_Generic>
       <Filename_Long></Filename_Long>
     </File_Info>
     <Program_Name>Business Process Manager</Program_Name>
-    <Program_Version>5.92</Program_Version>
-    <Program_Release_Month>11</Program_Release_Month>
-    <Program_Release_Day>30</Program_Release_Day>
-    <Program_Release_Year>2020</Program_Release_Year>
+    <Program_Version>6.24</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>25</Program_Release_Day>
+    <Program_Release_Year>2021</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>v5.92 - supports .NET 5.0 Desktop Environment and Setup.
-v5.87 - new SDUI MessageBox with decent, fine dark design. 
-v5.76 - smooth Time Ruler with integrated painting of Date and Time functionality.</Program_Change_Info>
+    <Program_Change_Info>v6.24 - AGB explanations on Art. 7 (eLearning vs. School rights).
+v6.24 - new icon for Key Account Manager, for our support team.
+v6.24 - fixed upgrade path and a few more bugs in the application.</Program_Change_Info>
     <Program_System_Requirements>Windows 7 / 8 / 10. 1024x768 + Display. No Spyware, no Adware, no data transfer. It's your business.</Program_System_Requirements>
     <Program_Category_Class>Business::Project Management</Program_Category_Class>
     <Expire_Info>
@@ -169,8 +169,8 @@ v5.76 - smooth Time Ruler with integrated painting of Date and Time functionalit
       <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
       <Application_Info_URL>https://dynamic-applications.org/downloads/business-process-manager</Application_Info_URL>
       <Application_Order_URL>https://dynamic-applications.org/downloads/business-process-manager</Application_Order_URL>
-      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/dna_BusinessProcessManager_official_800.jpg</Application_Screenshot_URL>
-      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/dna_BusinessProcessManager_logo_32x32.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/BusinessProcessManager_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/BusinessProcessManager_logo_32x32.gif</Application_Icon_URL>
       <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/bpm_padfile.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
@@ -256,12 +256,12 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
     <Keywords>Business Process Manager, Sharing Economy, Startup, Product, Calculation, Manager, Business Plan, Cost, Profit, Amortization, TCO, ROI, System Dynamics, Business Dynamics, dynamicons, Dynamic Applications</Keywords>
     <Related_URL>http://www.dynamic-applications.org/downloads/business-process-manager</Related_URL>
   </Press_Release>
-  <ASBMPlannerID1stRound>2384</ASBMPlannerID1stRound>
-  <Issues>6</Issues>
+  <ASBMPlannerID1stRound>2861</ASBMPlannerID1stRound>
+  <Issues>5</Issues>
   <Allmyapps>
     <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
   </Allmyapps>
-  <ASBMPlannerID2ndRound>2387</ASBMPlannerID2ndRound>
+  <ASBMPlannerID2ndRound>2868</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share.</Distribution_Permissions>
     <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
@@ -290,14 +290,16 @@ We are Dynamic Applications. We work to empower people. We are Sharing Economy. 
 
 Where is it possible to improve, and what's their impact on your company's net profit calculation? - See their combined effect on Total Cost, Net Profit and Bank Account Balance. BPM allows for a complete Return-on-Invest analysis. Quickly check any possibilities and options. Let go of the past. Start today and think only about what's possible to achieve within the next 4 years.
 
-Included are an introductory Startup Product Calcultor: a Bakery. You'll also find Small Business Simulations with 3, 5 and 10 products. Finally, the Business Process Manager Simulation includes a 10-Task work time optimizer. Finally, an exemplary Simulation for the service-based industry will introduce roles like Project Management, Sales activity and classic Service work time. The free version allows you to rename, translate and edit up to 12 Input and Target Values, so that you can create small derivate models. 
+Included are an introductory Bakery Tutorial. Then, you'll find Small Business Simulations with 3, 5 and 10 products. The Business Process Manager Simulation includes a 10-Task work time optimizer. Finally, an exemplary Simulation for the service-based industry will introduce roles like Project Management, Sales activity and classic Service work time. The free version allows you to rename, translate and edit up to 12 Input and Target Values, so that you can create small derivate models. 
 
 Dynamic Applications are fully transparent. All Simulation Models are documented inline via ToolTips showing all formulas calculated, as well in live numbers. Extensive documentation is available on the Product's website.
 
-Dynamic Applications are gathering no data at all. A traditional Desktop client, all you need. 
+Privacy. Dynamic Applications are gathering no data at all. A traditional Desktop client, all you need. 
 It's your business, it's your data. We respect that. So you can be rest assured and plan secretly from home.
 
-Dynamic Applications follow Customer Driven Development. Two user competitions allow everyone to vote on our best simulation ideas, as well as the platform's public roadmap. The work of Dynamic Applications is prioritized according to the public vote.</Char_Desc_2000>
+Participation. Two user competitions allow everyone to vote on our best simulation ideas, as well as the platform's public roadmap. The work of Dynamic Applications is prioritized according to the public vote.
+
+All in all, Business Process Manager is a reliable, professional application that comes with an intuitive, easy to operate one window interface. So it reduces its own functionality to concentrate on professional prediction and forecast.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
 </XML_DIZ_INFO>
