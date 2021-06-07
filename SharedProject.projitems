@@ -412,6 +412,7 @@
     <Content Include="$(MSBuildThisFileDirectory)PADFiles\wwf_padfile.xml" />
     <Content Include="$(MSBuildThisFileDirectory)PD3146v788\index.html" />
     <Content Include="$(MSBuildThisFileDirectory)index.html" />
+    <Content Include="$(MSBuildThisFileDirectory)PDv3146v788\index.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)21stTruckDriverSetup.exe" />
@@ -454,6 +455,9 @@
     <None Include="$(MSBuildThisFileDirectory)KeyAccountManagerSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PD3146v788\PerfectDesireSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PD3146v788\SmallBusinessDevSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)PDv3146v788\KeyAccountManagerSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)PDv3146v788\PerfectDesireSetup.exe" />
+    <None Include="$(MSBuildThisFileDirectory)PDv3146v788\SmallBusinessDevSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PerfectDesireSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PhotovoltaicSystemSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PirateDesireSetup.exe" />
