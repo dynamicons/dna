@@ -61,3 +61,15 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+###############################################################################
+# behavior for exe files
+#
+# exe files are treated as binary by default.
+###############################################################################
+
+*.css  linguist-detectable=false
+*.htm  linguist-detectable=false
+*.html linguist-detectable=false
+*.js   linguist-detectable=false
+*.exe  linguist-detectable=true
