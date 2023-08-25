@@ -9,7 +9,6 @@
     <Import_RootNamespace>dna</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)custom\index.html" />
     <Content Include="$(MSBuildThisFileDirectory)dna\index.html" />
     <Content Include="$(MSBuildThisFileDirectory)dna\PD3146v788\index.html" />
     <Content Include="$(MSBuildThisFileDirectory)dna\PDv3146v788\index.html" />
@@ -411,7 +410,6 @@
     <Content Include="$(MSBuildThisFileDirectory)PADFiles\wind_padfile.xml" />
     <Content Include="$(MSBuildThisFileDirectory)PADFiles\ws_padfile.xml" />
     <Content Include="$(MSBuildThisFileDirectory)PADFiles\wwf_padfile.xml" />
-    <Content Include="$(MSBuildThisFileDirectory)PD3146v788\index.html" />
     <Content Include="$(MSBuildThisFileDirectory)index.html" />
     <Content Include="$(MSBuildThisFileDirectory)PDv3146v788\index.html" />
   </ItemGroup>
@@ -459,8 +457,6 @@
     <None Include="$(MSBuildThisFileDirectory)HealthcareSimulationsSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)IoTDeveloperSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)KeyAccountManagerSetup.exe" />
-    <None Include="$(MSBuildThisFileDirectory)PD3146v788\PerfectDesireSetup.exe" />
-    <None Include="$(MSBuildThisFileDirectory)PD3146v788\SmallBusinessDevSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PDv3146v788\KeyAccountManagerSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PDv3146v788\PerfectDesireSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)PDv3146v788\SmallBusinessDevSetup.exe" />
@@ -474,10 +470,8 @@
     <None Include="$(MSBuildThisFileDirectory)SmartGridSimulationsSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)StartupInformerSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)StartupProductManagerSetup.exe" />
-    <None Include="$(MSBuildThisFileDirectory)TruckDriverSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)TRXSetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)WaterSupplySetup.exe" />
     <None Include="$(MSBuildThisFileDirectory)WindTurbineSetup.exe" />
-    <None Include="$(MSBuildThisFileDirectory)WorldwideGrowthOfForestSetup.exe" />
   </ItemGroup>
 </Project>
