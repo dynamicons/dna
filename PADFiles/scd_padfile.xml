@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.804</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-E7004C7F7A76</Company_UIN>
+    <Company_Description>Dynamic Applications is a small business consultancy focused on product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. Your very own.
+
+We're driven by thousands of independent voters. Altogether, we develop Perfect Desire, an evolving platform of free and simple business plan calculators for everyone.
+
+At Dynamic Applications, we are Sharing Economy. Follow us to gain.
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Company_Description>
+    <Product_UIN>APP-01781ACADFD</Product_UIN>
+    <Search_String>Society Developments</Search_String>
+    <Press_Release_Search_String>Society Developments</Press_Release_Search_String>
+    <NewsFeed_Search_String>Society Developments</NewsFeed_Search_String>
+    <Search_Engine_Search_String>Society Developments</Search_Engine_Search_String>
+    <Web_Directories_Search_String>Society Developments</Web_Directories_Search_String>
+    <Search_String_Unique>Society</Search_String_Unique>
+    <Comments_For_Reviewer>Thanks for testing! The universal Promo Code is DLROW-III-MODEL (activates the formula system 42 times).</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Dynamic Applications</Company_Name>
+    <Address_1>Helpuper Str. 314</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Leopolds Height</City_Town>
+    <State_Province>NRW</State_Province>
+    <Zip_Postal_Code>33818</Zip_Postal_Code>
+    <Country>Germany</Country>
+    <Company_WebSite_URL>https://dynamic-applications.org</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Martin</Contact_First_Name>
+      <Contact_Last_Name>Bernhardt</Contact_Last_Name>
+      <Contact_Email>freeware@dynamic-applications.org</Contact_Email>
+      <Author_First_Name>Martin</Author_First_Name>
+      <Author_Last_Name>Bernhardt</Author_Last_Name>
+      <Author_Email>freeware@dynamic-applications.org</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>freeware@dynamic-applications.org</Sales_Email>
+      <Support_Email>freeware@dynamic-applications.org</Support_Email>
+      <General_Email>freeware@dynamic-applications.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>https://linkedin.com/company/dynamicons</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/dynamicons</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/dynamicons</FacebookCompanyPage>
+    <CompanyStorePage>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>freeware@dynamic-applications.org</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Martin</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Bernhardt</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Dynamic Applications. Sharing Economy.</Site_Site_Title>
+    <Site_Site_URL>http://www.dynamic-applications.org</Site_Site_URL>
+    <Site_Description_100>Dynamic Applications are Small Business Planners that are free of charge and self explanatory.</Site_Description_100>
+    <Site_Description_250>Dynamic Applications is a small business consultancy focused on product cost and benefit. We support Startups in quickly checking Business Case options. We develop a platform for free business model calculations. We call them Dynamic Applications.</Site_Description_250>
+    <Site_Description_450>Dynamic Applications is a small business consultancy focused on product cost-benefit optimization. We support Startups to quickly check their Business Case. We develop an evolving platform for free, interactive and self explanatory business planners for everyone. We call them Dynamic Applications.</Site_Description_450>
+    <Site_Keywords>21st century, SocialMedia, App, Developer, Internet of Things, IoT, PV, Forest, Energy, Truck, Startup, Product, Education, Society, Business, Plan, dynamicons, Dynamic Applications, Sharing Economy</Site_Keywords>
+    <Site_Contact_Email>freeware@dynamic-applications.org</Site_Contact_Email>
+    <Site_Contact_First_Name>Martin</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Bernhardt</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>scd_padfile.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Mask>societydevelopmentssetup.exe</DP_Distributive_Mask>
+      <DP_Distributive_Primary_URL>https://www.dynamic-apps.org/downloads/SocietyDevelopmentsSetup.exe</DP_Distributive_Primary_URL>
+      <DP_ControlPanel_Hosted>03D98AF53A8623D549C2168173951FB6</DP_ControlPanel_Hosted>
+    </General>
+  </Dynamic_PAD>
+  <Program_Info>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>33896840</File_Size_Bytes>
+      <File_Size_K>33102</File_Size_K>
+      <File_Size_MB>32.33</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <FacebookProductPage>https://www.facebook.com/dynamicons</FacebookProductPage>
+    <Program_Name>Society Developments</Program_Name>
+    <Program_Version>7.84</Program_Version>
+    <Program_Release_Month>09</Program_Release_Month>
+    <Program_Release_Day>24</Program_Release_Day>
+    <Program_Release_Year>2023</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English,German</Program_Language>
+    <Program_Change_Info>v7.84 - Auto Refresh of SDModel List on Save As ... (fixed).
+v7.78 - Setup and all DLLs recompiled on Windows 11 (64-bit).
+v7.78 - Society Developments - Refugees. Migrants. Natives. Population.</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 / 8 / 10 / 11</Program_System_Requirements>
+    <Program_Category_Class>Home &amp; Hobby::Personal Interest</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Society,Politics,Government,Regulation,Law and Order,Education,Teaching,Personal Interest,Personal Finance,Home &amp; Hobby</Program_Categories>
+    <Limitations>Editing of Input Values and Target Formula is limited to the Top 12 variables.</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <ASBMPlannerID1stRound>70</ASBMPlannerID1stRound>
+  <Issues>8</Issues>
+  <Press_Release>
+    <Press_Release>Dynamic Applications releases Society Developments. 
+Refugees. Migrants. Natives. Population. pacta sunt servanda.
+
+Society Developments brings Honesty, Clarity and Modesty to the most discussed historic topics. In Times of overheating debate, let us stay well grounded and focus on facts to discuss. Our calculations bring clarity in clearly counting together cost and budget, one by one. How much to give, how much to achieve. 
+
+Germany. With 80 Mio People, imagine we target a quota of 1% Refugees in The Bible's advice. We calulate the total cost and profit of Refugees and Migrants on a Nation's Budget Level: fair, clear and understandable.
+
+We see this our position as an Example how Open Government should really function: declaring the best possible approach. We argue in line with Art. 21 GG of our constitution: shall the political parties present the will of the people. So we empower you, our customers, to make up your own mind. 
+
+For all political opinions.
+
+To let our customers speak, please find attached one of the first independent Software Magazine Reviews.
+
+Top Download Club is thrilled to present "Society Developments," a cutting-edge software application developed by the renowned Dynamic Applications. This innovative software is a game-changer in the realm of societal planning and development.
+
+"Society Developments" is a futuristic tool designed to simulate the growth and development of societies. It's an interactive platform that allows users to predict and analyze the potential impact of various societal decisions and policies. This software is a perfect blend of technology and social sciences, making it a must-have tool for policymakers, researchers, and anyone interested in understanding societal dynamics.
+
+The user-friendly interface of "Society Developments" ensures a seamless experience, even for those with minimal technical knowledge. It offers a plethora of features, including real-time simulations, data analytics, and a comprehensive database of societal parameters.
+
+Developed by Dynamic Applications, a company known for its commitment to innovation and quality, "Society Developments" is a testament to their expertise. The software is robust, reliable, and designed to deliver accurate results, making it a trusted tool in the field of societal development.
+
+In conclusion, "Society Developments" is a revolutionary software that brings the future of societal planning and development to your fingertips. It's a tool that not only predicts the future but also empowers you to shape it.</Press_Release>
+    <Press_Release_Plain>Dynamic Applications releases Society Developments. 
+Refugees. Migrants. Natives. Population. pacta sunt servanda.
+
+Society Developments brings Honesty, Clarity and Modesty to the most discussed historic topics. In Times of overheating debate, let us stay well grounded and focus on facts to discuss. Our calculations bring clarity in clearly counting together cost and budget, one by one. How much to give, how much to achieve. 
+
+Germany. With 80 Mio People, imagine we target a quota of 1% Refugees in The Bible's advice. We calulate the total cost and profit of Refugees and Migrants on a Nation's Budget Level: fair, clear and understandable.
+
+We see this our position as an Example how Open Government should really function: declaring the best possible approach. We argue in line with Art. 21 GG of our constitution: shall the political parties present the will of the people. So we empower you, our customers, to make up your own mind. 
+
+For all political opinions.
+
+To let our customers speak, please find attached one of the first independent Software Magazine Reviews.
+
+Top Download Club is thrilled to present "Society Developments," a cutting-edge software application developed by the renowned Dynamic Applications. This innovative software is a game-changer in the realm of societal planning and development.
+
+"Society Developments" is a futuristic tool designed to simulate the growth and development of societies. It's an interactive platform that allows users to predict and analyze the potential impact of various societal decisions and policies. This software is a perfect blend of technology and social sciences, making it a must-have tool for policymakers, researchers, and anyone interested in understanding societal dynamics.
+
+The user-friendly interface of "Society Developments" ensures a seamless experience, even for those with minimal technical knowledge. It offers a plethora of features, including real-time simulations, data analytics, and a comprehensive database of societal parameters.
+
+Developed by Dynamic Applications, a company known for its commitment to innovation and quality, "Society Developments" is a testament to their expertise. The software is robust, reliable, and designed to deliver accurate results, making it a trusted tool in the field of societal development.
+
+In conclusion, "Society Developments" is a revolutionary software that brings the future of societal planning and development to your fingertips. It's a tool that not only predicts the future but also empowers you to shape it.</Press_Release_Plain>
+    <Headline>Dynamic Applications releases Society Developments.  Refugees. Migrants. Natives. Population.</Headline>
+    <Summary>Dynamic Applications releases Society Developments.  Refugees. Migrants. Natives. Population.
+Open Government is empowering we the people in public opinion.</Summary>
+    <Keywords>Dynamic Applications, Society, Developments, Refugees, Migrants, Natives, Population, Law and order, Politics, We the people.</Keywords>
+    <Related_URL>https://win.topdownload.club/society-developments/</Related_URL>
+  </Press_Release>
+  <ASBMPlannerID2ndRound>71</ASBMPlannerID2ndRound>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dynamic-applications.org/downloads/society-developments/</Application_Info_URL>
+      <Application_Order_URL>https://apps.microsoft.com/store/detail/society-developments/9NWCK7R5FCN4</Application_Order_URL>
+      <Application_Screenshot_URL>https://www.dynamic-apps.org/downloads/images/SocietyDevelopments_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://www.dynamic-apps.org/downloads/icons/SocietyDevelopments_logo_32x32.png</Application_Icon_URL>
+      <Application_XML_File_URL>http://hosted.dynamicpad.org/info/app-01781acadfd/scd_padfile.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://www.dynamic-apps.org/downloads/SocietyDevelopmentsSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/dynamicons/dna/raw/dna/SocietyDevelopmentsSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license, free to share. See EULA for details.</Distribution_Permissions>
+    <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Society, Politics, Government, Regulation, Law and Order, Education, Teaching, Sharing Econonmy, dynamicons, Dynamic Applications</Keywords>
+      <Char_Desc_45>Society Developments. Refugees. Population.</Char_Desc_45>
+      <Char_Desc_80>Society Developments. Refugees. Migrants. Natives. Population. a simulation.</Char_Desc_80>
+      <Char_Desc_250>Refugees. Migrants. Natives. Population. Society Developments brings Honesty, Clarity and Modesty to the most discussed historic topics. Much has been reported, by few known are the facts. Society Developments calculates the true cost of Immigration.</Char_Desc_250>
+      <Char_Desc_450>Refugees. Migrants. Natives. Population. Society Developments brings Honesty, Clarity and Modesty to the most discussed historic topics. In Times of overheating debate, our calculations bring clarity in counting together cost and budget. We target 1% Refugees from biblical advice, and start by spending 10 Euro a Month. How much budget can we collect as a Nation? How many people can be supplied by this. Decide self. For all political opinions.</Char_Desc_450>
+      <Char_Desc_2000>Refugees. Migrants. Natives. Population. Society Developments brings Honesty, Clarity and Modesty to the most discussed historic topics. In Times of overheating debate, our calculations bring clarity in counting together cost and budget. We target 1% Refugees from biblical advice, and start by spending 10 Euro (or Dollar) a Month. How much budget can we collect as a Nation? How many people can be supplied by this. 
+
+Two Simulation Models focus on work migration as well as on Refugee supply. You can enter the necessary supply in lodging and rent, food and clothing, teaching, healthcare, bureaucracy and administration. Therefrom we calculate the monthly cost of supply. Over all Migrants we see the yearly cost. In the Refugee simulation, we consider that help may be required for multiple ongoing years. How much budget can we collect from 10 Euro (or Dollar) per Month? - when 100 people share 10 Euro per month, we already collect 1000 Euro for a 1% Migration rate. Too much, you say? - configure all criteria as desired. Full Transparency with ToolTips explaining all Formula in live calculation. Dynamic Applications are traditional desktop calculators that gather no data at all. So you can plan privately and secure. No money is collected or requested, instead clear calculations are given.
+
+Dynamic Applications. Transparency. Privacy protection. chance. and Participation. our values.
+Society Developments. Think self. Decide self. Develop your own scenario, your plan. For all political opinions.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
