@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.804</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-E7004C7F7A76</Company_UIN>
+    <Company_Description>Dynamic Applications is a small business consultancy focused on product cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models. Your very own.
+
+We're driven by thousands of independent voters. Altogether, we develop Perfect Desire, an evolving platform of free and simple business plan calculators for everyone.
+
+At Dynamic Applications, we are Sharing Economy. Follow us to gain.
+We vote in online democracy, we deliver for free. We work for you, and we call them Dynamic Applications.</Company_Description>
+    <Product_UIN>APP-01821539374</Product_UIN>
+    <Search_String>Smart Grid Simulations</Search_String>
+    <Press_Release_Search_String>Smart Grid Simulations</Press_Release_Search_String>
+    <NewsFeed_Search_String>Smart Grid Simulations</NewsFeed_Search_String>
+    <Search_Engine_Search_String>Smart Grid Simulations</Search_Engine_Search_String>
+    <Web_Directories_Search_String>Smart Grid Simulations</Web_Directories_Search_String>
+    <Search_String_Unique>Grid</Search_String_Unique>
+    <Comments_For_Reviewer>For people working on Publication Platforms, Reviewers and Testers.
+Thank you for all your work. We appreciate it. Your comments define our next idea. 
+This code will convert this product into Perfect Desire, our professional application.
+
+DLROW-III-MODEL
+2016 - 2020 - 2024
+UNLIMITED UPGRADES</Comments_For_Reviewer>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Dynamic Applications</Company_Name>
+    <Address_1>Helpuper Str. 314</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Leopolds Height</City_Town>
+    <State_Province>NRW</State_Province>
+    <Zip_Postal_Code>33818</Zip_Postal_Code>
+    <Country>Germany</Country>
+    <Company_WebSite_URL>https://dynamic-applications.org</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Martin</Contact_First_Name>
+      <Contact_Last_Name>Bernhardt</Contact_Last_Name>
+      <Contact_Email>freeware@dynamic-applications.org</Contact_Email>
+      <Author_First_Name>Martin</Author_First_Name>
+      <Author_Last_Name>Bernhardt</Author_Last_Name>
+      <Author_Email>freeware@dynamic-applications.org</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>freeware@dynamic-applications.org</Sales_Email>
+      <Support_Email>freeware@dynamic-applications.org</Support_Email>
+      <General_Email>freeware@dynamic-applications.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>https://linkedin.com/company/dynamicons</LinkedinPage>
+    <TwitterCompanyPage>https://twitter.com/dynamicons</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/dynamicons</FacebookCompanyPage>
+    <CompanyStorePage>https://dynamic-applications.org/pd-documentation/customer-and-it-service-conditions/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>freeware@dynamic-applications.org</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Martin</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Bernhardt</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Dynamic Applications | Sharing Economy.</Site_Site_Title>
+    <Site_Site_URL>http://www.dynamic-applications.org</Site_Site_URL>
+    <Site_Description_100>Dynamic Applications - Small Business Planners in (x/y/t) for product, cost, customers and profit.</Site_Description_100>
+    <Site_Description_250>Dynamic Applications is a Small Business consultancy focused on customers, product, cost, efficiency, sales, and net profit. We support Startups around the globe. We publish a Platform of free Business Planners in (x/y/t).</Site_Description_250>
+    <Site_Description_450>Dynamic Applications is a small business consultancy focused on customers, production, cost, efficiency, sales, and net profit. We support Startups in developing 21st century Business Models.
+
+We're driven by thousands of independent voters. Altogether, we create Small Business Developments, an evolving platform of small, intuitive business planners for everyone. our Target. 
+
+We vote in online democracy, we deliver for free. We work for you.</Site_Description_450>
+    <Site_Keywords>Society, App, Developer, Internet of Things, IoT, PV, Forest, Energy, Nature, Truck, Smart Grid, Startup, Product, growth, business, plan, chance, Dynamic Applications, dynamicons, Sharing Economy</Site_Keywords>
+    <Site_Contact_Email>freeware@dynamic-applications.org</Site_Contact_Email>
+    <Site_Contact_First_Name>Martin</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Bernhardt</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>sgs_padfile.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Mask>smartgridsimulationssetup.exe</DP_Distributive_Mask>
+      <DP_Distributive_Primary_URL>https://www.dynamic-apps.org/downloads/SmartGridSimulationsSetup.exe</DP_Distributive_Primary_URL>
+      <DP_ControlPanel_Hosted>6AF1822845FC43310027F0E03D19BE50</DP_ControlPanel_Hosted>
+    </General>
+  </Dynamic_PAD>
+  <Program_Info>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>9505160</File_Size_Bytes>
+      <File_Size_K>9282</File_Size_K>
+      <File_Size_MB>9.06</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <FacebookProductPage>https://www.facebook.com/dynamicons</FacebookProductPage>
+    <Program_Name>Smart Grid Simulations</Program_Name>
+    <Program_Version>8.24</Program_Version>
+    <Program_Release_Month>02</Program_Release_Month>
+    <Program_Release_Day>29</Program_Release_Day>
+    <Program_Release_Year>2024</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>v8.24 - Broken Weblink for Windows 10 Store corrected.
+v8.16 - AGB, Terms and Conditions and dna license included as (PDF).
+v8.16 - art. 14 agb defines property taxation, and the basic right to settle from a shelter.
+v8.12 - Photovoltaic System (2024) Models with 500 Wp per Panel at 200 Euro.</Program_Change_Info>
+    <Program_System_Requirements>Windows 7 / 8 / 10 / 11 (64-bit), .NET Desktop Runtime Environment (included)</Program_System_Requirements>
+    <Program_Category_Class>Business::Accounting &amp; Finance</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Electricity,Sustainability,Technology,Science,Finance,Education,Accounting,Business</Program_Categories>
+    <Limitations>The integrated Formula Editors are only available for the Top 10 Input and Target Values.</Limitations>
+    <Awards>http://www.softpedia.com/get/Others/Finances-Business/App-Developer.shtml#status</Awards>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Video_Link_1_URL>https://vimeo.com/248985018</Video_Link_1_URL>
+      <Application_Info_URL>https://dynamic-applications.org/downloads/smart-grid-simulations/</Application_Info_URL>
+      <Application_Order_URL>https://apps.microsoft.com/detail/9pkfxkl7496v</Application_Order_URL>
+      <Application_Screenshot_URL>https://dynamic-apps.org/downloads/images/SmartGridSimulations_official_800.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://dynamic-apps.org/downloads/icons/SmartGridSimulations_logo_32x32.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://dynamic-apps.org/downloads/PADFiles/sgs_padfile.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://www.dynamic-apps.org/downloads/SmartGridSimulationsSetup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/dynamicons/dna/raw/master/SmartGridSimulationsSetup.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <Press_Release>
+    <Press_Release>Dynamic Applications releases Smart Grid Simulations, an innovation in Law.
+
+Smart Grid Simulations is a collection of interactive Business Planners featuring PV System, Wind Turbine, Water Supply, Apple Tree, and Public Infrastructure calculations that will allow you to review the Topic of Public Infrastructure from all kinds of perspectives. From Man and Woman, House and Family with Self Supply, to the overview of The Federal Republic of Germany's most common Fossile and Renewable Energies, this small application allows you to get your own picture, independent from other sources.
+
+Transparency - through interactive ToolTips, all calculations are self-explanatory in formula and live numbers.
+Privacy Protection - no data gathering, no Server behind you. a traditional Desktop Client with no data transfer.
+Participation - free of charge in the basic version, available on hundreds of Freeware and Shareware Websites.
+
+Through the Dynamic Idea and Roadmap competition, every user can as well participate in a global voting of new Simulation Ideas (mutation) and as well the development of the Dynamic Applications platform (evolution).
+
+Finally, in providing Protocol Form, Smart Grid Simulations celebrates the arrival of Justice at Court, on a global scale. Defended with 75 Euro according to the AGB, Terms and Conditions of Dynamic Applications, before the Law by Martin Bernhardt. Protocol Form will allow everyone to defend the Law in Court, including any unfair treatment that there may have existed. So here we warrant Article 6 of the UN declaration of Human Rights, your Formal Existence where it counts. By defining our Liability, this innovation forms a relation in distance and time, requiring even any Judge and State Attorneys to Travel to AG Lemgo and bring down Protocol Form to get their 75 Euro by bringing up any Laws against it. Still, that's 7500 times the cost of 1 ct of a Din A4 page.
+
+An integrated Formula Editor allows you to adjust the Top 12 Input and Target Values according to your needs in the free version. For a decent price, everyone interested can upgrade to our Professional Business Model Development right from within the application, on request. Apart from that, users can collect dna coins and as well activate additional features through our Universal Promo Code, available within the Tweets of the Dynamic Idea and Roadmap Competition.
+
+All in all, Smart Grid Simulations is a reliable Application that works in itself, is verifyable in itself, and warrants your personal data so that you can plan secretly and don't have to worry. It is provided free of charge in the basic version, which allows you to run and verify any kind of Simulation Models in (x / y / t), over time.
+
+Finally, Dynamic Applications offer a Bug Bounty of 25 Euro, with up to 75 Euro as defended via AG Lemgo.</Press_Release>
+    <Press_Release_Plain>Dynamic Applications releases Smart Grid Simulations, an innovation in Law.
+
+Smart Grid Simulations is a collection of interactive Business Planners featuring PV System, Wind Turbine, Water Supply, Apple Tree, and Public Infrastructure calculations that will allow you to review the Topic of Public Infrastructure from all kinds of perspectives. From Man and Woman, House and Family with Self Supply, to the overview of The Federal Republic of Germany's most common Fossile and Renewable Energies, this small application allows you to get your own picture, independent from other sources.
+
+Transparency - through interactive ToolTips, all calculations are self-explanatory in formula and live numbers.
+Privacy Protection - no data gathering, no Server behind you. a traditional Desktop Client with no data transfer.
+Participation - free of charge in the basic version, available on hundreds of Freeware and Shareware Websites.
+
+Through the Dynamic Idea and Roadmap competition, every user can as well participate in a global voting of new Simulation Ideas (mutation) and as well the development of the Dynamic Applications platform (evolution).
+
+Finally, in providing Protocol Form, Smart Grid Simulations celebrates the arrival of Justice at Court, on a global scale. Defended with 75 Euro according to the AGB, Terms and Conditions of Dynamic Applications, before the Law by Martin Bernhardt. Protocol Form will allow everyone to defend the Law in Court, including any unfair treatment that there may have existed. So here we warrant Article 6 of the UN declaration of Human Rights, your Formal Existence where it counts. By defining our Liability, this innovation forms a relation in distance and time, requiring even any Judge and State Attorneys to Travel to AG Lemgo and bring down Protocol Form to get their 75 Euro by bringing up any Laws against it. Still, that's 7500 times the cost of 1 ct of a Din A4 page.
+
+An integrated Formula Editor allows you to adjust the Top 12 Input and Target Values according to your needs in the free version. For a decent price, everyone interested can upgrade to our Professional Business Model Development right from within the application, on request. Apart from that, users can collect dna coins and as well activate additional features through our Universal Promo Code, available within the Tweets of the Dynamic Idea and Roadmap Competition.
+
+All in all, Smart Grid Simulations is a reliable Application that works in itself, is verifyable in itself, and warrants your personal data so that you can plan secretly and don't have to worry. It is provided free of charge in the basic version, which allows you to run and verify any kind of Simulation Models in (x / y / t), over time.
+
+Finally, Dynamic Applications offer a Bug Bounty of 25 Euro, with up to 75 Euro as defended via AG Lemgo.</Press_Release_Plain>
+    <Headline>Dynamic Applications releases Smart Grid Simulations, an innovation in Law.</Headline>
+    <Summary>Dynamic Applications releases Smart Grid Simulations, an innovation in Law. From House and Family to Public Infrastructure, allows to defend the Public State.</Summary>
+    <Keywords>Smart Grid, Public Infrastructure, Renewable Energy, PV, Wind, Oil, Gas, Coal, Water Supply, Sharing Economy, Dynamic Applications.</Keywords>
+    <Related_URL>https://dynamic-applications.org/downloads/smart-grid-simulations/</Related_URL>
+  </Press_Release>
+  <ASBMPlannerID1stRound>68</ASBMPlannerID1stRound>
+  <Issues>9</Issues>
+  <ASBMPlannerID2ndRound>72</ASBMPlannerID2ndRound>
+  <Permissions>
+    <Distribution_Permissions>This software is published under a Creative Commons cc-by-sa alike license (dna license), free to share. See EULA for details.</Distribution_Permissions>
+    <EULA>https://dynamic-applications.org/pd-documentation/dna-license/</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Smart Grid, Infrastructure, Simulations, Renewable Energies, Power Supply, Electricity, PV, Wind Turbine, Gas, Oil, Road, Water, Supply, Business Dynamics, Justice, Court, Protocol, System Dynamics, dynamicons, Dynamic Applications, Sharing Economy</Keywords>
+      <Char_Desc_45>Smart Grid, Infrastructure, Renewable Energy</Char_Desc_45>
+      <Char_Desc_80>Smart Grid Infrastructure Simulations with Fossile, PV, and Renewable Energies</Char_Desc_80>
+      <Char_Desc_250>Smart Grid Simulations is a collection of Business Planners in (x / y / t) that allow you to calculate your Power Supply, PV Energy, Wind Turbine, as well as Cost/Profit of Public Infrastructure in relation. All Calculations Transparent via ToolTips.</Char_Desc_250>
+      <Char_Desc_450>Smart Grid Simulations is a collection of Business Planners in (x/y/t) that allow you to calculate your personal Household Power Supply. With PV Energy, Wind Turbine, as well as Cost/Profit of Public Infrastructure in relation, all Calculations are fully Transparent via ToolTips with Formulas and live calculation in Numbers. Privacy Protection - no data gathering, no Server behind you. It's your data. We respect that. Traditional Desktop Client.</Char_Desc_450>
+      <Char_Desc_2000>Smart Grid Simulations is a collection of Business Planners in (x/y/t) that allow you to calculate your personal Household Power Supply. With PV Energy, Battery, Wind Turbine, Water Supply, and Public Infastructure, all you need for a Smart Grid included. 
+
+All Calculations are fully Transparent via ToolTips with Formulas and live calculation in Numbers. 
+
+Privacy Protection - no data gathering, no Server behind you. It's your data. We respect that. Traditional Desktop Client.
+
+To introduce the Smart Grid Application, as usual, at Dynamic Applications, we go back to the heart, to the origin of our Product - the development of public infrastructure, all from the very ground up. 
+
+Smart Grid Simulations.
+
+our free collection of infrastructure simulations, with a forecast in System Dynamics.
+
+From there, we concern ourselves with creating a good, reasonable balance between the public state and the person's home. So this one, Young Modeler, this one is really on founding, on building your own Civilization. 
+
+Water Supply (basic self-supply)
+Apple Tree (self-supply with Garden)
+Multi-Material Tool Builder (cost margin)
+Business Process Manager (work and time)
+Photovoltaic System (electricity producer)
+Wind Turbine (electricity for the village)
+App developer (basic) (Computer and IT)
+21st century Truck Driver (Private or Public Transport)
+Internet of Things developer (basic) (Small Parcel Trade)
+Smart Grid Energy Production - Germany (2000-2025)
+Dynamic Idea and Roadmap Competition (user voting)
+Configurable Time Ruler (48 months standard simulation).
+
+The free version allows you to edit Input Values, raise/fall over time, and even edit the Top 12 Target Formula.
+
+All in all, Smart Grid Simulations is a reliable Product that brings a large variety of Power Supply and Infrastructure Simulations. Every Input Value can be fine-tuned over time (rising/falling/saturate), so you can play all kinds of what-if-then scenarios at an exceptional Price.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
